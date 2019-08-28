@@ -10,3 +10,7 @@ outputs data that matches any input string with each word's grammatical class.
 ### Example Outputs: 
 
 ![example](https://github.com/ashleysong0418/Viterbi/blob/master/Results/Screen%20Shot%202019-05-20%20at%202.22.30%20AM.png)
+
+
+### Usage: 
+Clone the repo and run the program with any sample .txt file. 
