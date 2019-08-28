@@ -1,0 +1,2390 @@
+n p det n vd cnj det adj n n v v vn adv . 
+adv , pro v vn det n n n v det adv v adj to v det num p num n p n n n . 
+det n n n vd adv adv v det n adv to v det n num p n num n p adj n n n p adj n n n . 
+np adv vd det n p det n , wh pro v vn adv adv cnj pro n p num adj n , p det adj n p det n n p n cnj n . 
+det n , wh np vd pro v adv , mod v n , n n , n n cnj det n to v adj n p det n n . 
+pro adv vd cnj * det n v vn p det n , cnj det n v vn adv det n . 
+np vd p adj n n cnj pro vd adj n n p p num n vn p det n n , vd det n p det adj n n , cnj v * v pro p det adj n . 
+cnj pro v adj cnj det adj n v v vn to v det det n . 
+pro vd det n det n mod v det n n p adv p det n cnj mod adv v to v adv det det n p det vg n n to v det n n . 
+pro mod v num p det n n p det np n p det n cnj det det p det np n . 
+`` wh v cnj pro vd n . 
+det n wh vbz n n n n n cnj pro mod v vn p det n p det n p n p n p det n p num n cnj np np vbz to v det n . 
+pro vd np np cnj det n cnj pro mod v det adj n cnj v adv p det n cnj adv cnj adj . 
+n . 
+pro mod adv vn p np np np '' . 
+np vd cnj pro mod v p adj n p vg n p det n p np , num . 
+cnj adj , pro vd det n to v p n p np np np np , det np n . 
+n p det n p n cnj det adj n v vn p n cnj adj n . 
+n . 
+`` pro det n '' . 
+det n vd pro v det adj to v wh mod v vn cnj det n v vn p num n . 
+n num , p det n v vn p num n . 
+det n p det n p vg adv det p det n vg p det n n n mod v det n p vg cnj pro mod v det vn n n . 
+np mod v det n n cnj det n to v det n p adj n p det n p n . 
+n p det n n n mod adv v np det n to v det n . 
+pro vd cnj det n n p n v vn n p det n n . . 
+mod v . 
+np np vd adv cnj det n v p vg det n p vg p np np n . 
+det n vn adj n cnj n . . 
+-- pro adj n p det . 
+-- cnj pro n p det adj n p np . 
+' n vbz n . 
+np n . 
+adv np np , det n , vd det n cnj adv num n vn to v pro cnj ex vd det adj n . 
+np vd p det adj n p adj wh np vd adv p n cnj vd adj p num . 
+adv np n p det adj adj n . 
+adv , det n v * p det adj n cnj det np vd p det adj n p num np n n n . 
+det cnj pro adv v vn num adj n p num n . 
+det n , adj n n p np , np n pro cnj n . 
+cnj pro vd det n cnj vd adv pro n . 
+n . 
+pro adv vd np adv p det n n p n . 
+det n v adv vd cnj det vn n v det det adj . 
+np np v adv vn p det n n cnj mod v pro vg n . 
+np vd adv p pro p det n n . 
+cnj pro vd adv p det n . 
+pro vd pro v adv vn p np '' . 
+`` pro mod v adv . 
+pro v det adj n p det n p n pro v wh v vn p det adj n . 
+np adj n vd det vg n p det adj n p np cnj np np . 
+det n vd p det n cnj det n * v vn p det n p det n . 
+p det num , np n vd det adj n p np np , cnj p det n det n v vn cnj pro adv v n . 
+np vd pro to v det adj n p pro v vn to v pro n to v pro n cnj det n . 
+n vd num . 
+pro vd adv p num n p vg p np np n p np , np np . 
+p np mod v det np np adj n cnj det adj n p det n . 
+n adj . 
+pro vd pro adj . 
+cnj det det n p n cnj np mod v det det n n , ex v v vn p det . 
+pro v det adj n . 
+`` pro v det adj adj n , cnj num '' , pro vd cnj pro vd p det n , * adv det n . 
+det n p det n , p n , v np np , wh vd det num p det vn n adj . 
+n p n . 
+np v vn det p pro n . 
+`` pro mod v vg adv p det n p adj . 
+, np np , np . 
+det n p pro '' . 
+det n wh vd det adj n v vn p np np , n n p det n . 
+cnj det vn cnj det n , * det n . 
+np mod v np np num n . 
+np num v det n p np np n . . 
+pro det n . 
+pro mod v vn p np np , n n n n , np . 
+adj n : pro vd det n n n n p n np n p pro n , np np , adv det n . 
+n n n . . 
+adj n p n : cnj det n p n , np , vg p det n n . 
+det num n n mod v vn p np num . 
+pro n v vn p det n , cnj pro vd , cnj n . 
+pro n v vn p det n n , cnj pro vd , cnj n . 
+n . 
+p det p det num n det n v p adj n . 
+np np np v n p n . 
+adv np np np , np np np , np np np , np np np , np np np , np cnj np np np np , np np np , np np np , np np np , np np np , np np , cnj np np n . 
+np np np , p np , np , cnj np np np , p n . 
+n p adj . 
+vn n p . 
+n np np vd det n p det n p det n cnj p det n p adj n p det np np n n . 
+adj n n . 
+np vd det vg n . 
+det adj n p n n p det num num n p num vn to v , det num p n v vn p det adj n p det n . 
+cnj adj n p n , adv num p n . 
+n vd . 
+pro v det n vn p det p det vn n n n , det n num adj n . 
+num vn p . 
+vbz to v . 
+adv det n p det np mod adv v n p det adj adj n . 
+det vn n vd to v det adj n p det n cnj det vn p det np . 
+adv pro mod v , adj , det adj n . 
+pro v wh pro vd to v det n cnj det n vd n . 
+n p . 
+n . 
+det n vg det n v vn p np n p np np . 
+det n v det np num n p det n p n . 
+pro vd p num . 
+p det n pro v vn n cnj n p n p det n . 
+np np , det adj p np adj n cnj n p np , v det adj n wh vd pro n p det adj n p det p det adj n n p det vn n cnj np . 
+det n . 
+n . 
+np , cnj n p pro v det det n p adj n n cnj vd det n . 
+np np v vn p det adj np n , n np np np , wh vd pro . 
+det n v vn p n cnj det n p n . 
+np np vd det n cnj n n , n n vd . 
+n np np np v vn np np n p det n . 
+np n v v adj n p det n p det n . 
+np , np . 
+ex v adv v adj n p det np np n n , wh n n pro p pro adj n , pro vd . 
+num n adv n , adj n np np vd p det adj n vn p det adj n wh v vn p det n p det adj n . 
+det det n np mod v adv p n adj v to v det n n n cnj n pro p det n . 
+np np np , det n , np np np , det n , np np , np np np np , np np , np np np , np np np np , np n , np np , det n , np np , np np , cnj np np n . 
+np np . 
+np np . 
+np vd pro v vn det n cnj pro vd det n p np p np to v cnj v n p np n . 
+det n n p det np n p n vd det n p num n p n p adj n p n p np n . 
+`` pro v num n p np n p np . 
+cnj pro mod * v det adj n v adv num n . 
+det n v cnj pro v det n p n . 
+det p det v v adj n p n p det n p adj n , det v vg p adj n cnj n n cnj np v vg p n p , cnj pro wh vd pro p pro vd det np n to v det adj n . 
+np np , np np , cnj np np n p n . . 
+det np np adj n vn n p n . 
+n n p det num n p det num n . 
+n p pro v vn p n cnj n n . 
+pro mod v to v p n . 
+det vn n cnj n cnj np n mod v pro det n num adj . 
+num p num n . 
+`` det n , pro vd det n n p det adj cnj pro vd p p det adj n n . 
+adj n v adv p adj n p det np . 
+n p n , det n vd , mod v adv vn p n wh pro vbz det n vd det n n p n , adj cnj n p det n . 
+det n v * vn wh pro det n mod v . 
+-- n n vd adv p np cnj vg p num adj n , det n vd . 
+pro adv vbz det n cnj n p n p np np cnj np vd . 
+`` adv , ex v adv det n p n cnj n '' . 
+cnj ex v v det n p n cnj adj n mod v adv p det adj n p det n cnj n , num n vd to v det n p det adj , cnj adj n p adj . 
+p det n , det n cnj n v vn n p np np cnj np , n p n n cnj n cnj adj n n p np cnj n . 
+np np np , np , cnj np np , n . 
+n mod v p adj n . 
+pro v vn . 
+adv det n v adv . 
+cnj det det adj . 
+n p det n v n p n p det adj n . 
+n v np np np p np np np np . . 
+det adj . 
+det n , np np n p det adj np . 
+np np v det n . . 
+n p . 
+pro v adv vn p det n p adj n . 
+cnj pro vd to v adj cnj det n * adv v p n cnj adv p wh pro vbz v det det n -- det det adj np . 
+n p det n v v det adj , np vd , cnj det adj n n p np n n mod v vn adv adv . 
+vg n mod v adv p n p det adj n . . 
+p det n p np np cnj np np , det n v det adj cnj pro v p det np np n . 
+pro vd det n . 
+pro v det adj n to v p det n `` det adj n p np '' cnj vn to v vn adv det n . 
+det n v vn det n vn p np n p np , np , det n cnj n wh vd p det vg p det n adv p n . 
+det np n v det adj to v p det n p det n cnj vd adv adv . 
+np vd det n p pro n . 
+n n mod * v pro n p det det n p det adj n p det vn p n . 
+p adj . 
+det n vd adv to v det n cnj np vd n p det adj n . 
+pro vd adv p det adj n p adj n . 
+np np v det vn p det n cnj p det n cnj det np n , cnj adv vn n , mod v det adj n p adj n p det n cnj adv cnj det adj n p det n p n . 
+n np vd p np cnj det n n n v adj cnj adj . 
+n p det n v vn adv p det n cnj det n mod adv v adj . 
+ex v num n wh n to v p n p det n mod v adj p det n p det adj n . 
+det n v vn p n p det adj n cnj vn pro n n . 
+n adv vbz det n p det adj adj n . 
+det n v adv vn cnj n p det adj n mod v p det n adj n v vn -- cnj adj cnj adj n v vn . 
+det adj n p det adj n p n v vn p np np , p det n p n , adv p num . 
+det n p n v vn to v vg det n p adj adj n cnj adj n . 
+ex v adj n to v det n : pro v vn pro adj n p det adj n p np . 
+cnj det n vd p det n cnj n , pro vd adj cnj n np mod v . 
+pro vd np det p det n cnj vn p det adj num p np num . 
+det adv det n v adj cnj adj , cnj det n v adj to v pro n n adv p det n cnj n adv p det n p det det n p det n . 
+cnj np , wh adj adj n cnj det n mod v adv det p det n . . 
+p num n adv p det n , wh np v vn adv det adj n p det num , det adj n p det n p det num n adv vd cnj np v vn det adj n . 
+det n p . 
+np np vd det n . 
+det n np v vn adv . 
+cnj np adj n vd p det num n , det adj n p det n vg num n . 
+pro vd det num n p det n cnj vd adv p det n . 
+p det n det n v vn n p det n p det n , cnj adv det n p det n v adj p det adj det n . 
+pro n num p det n cnj adj n p num cnj num adv p det n p num vd pro adv p det n . 
+adj n . 
+pro vd , vg p det adj n n . 
+det n cnj pro v v adj '' . 
+vg p `` n '' , pro vd det adj n `` wh n vbz cnj pro vd p pro wh vd p num . . 
+det det adj n p adj np adj n v det adj n n , np np np ( adj n : np np ) , num , cnj det n pro vd cnj pro mod v det n p det n . 
+pro adj adj , cnj pro vg adv p n . 
+num p np np det adj n , det det adj n , pro vd det n np np p pro adj n , wh pro v v p n p num . 
+cnj pro vd cnj pro v vn p det adj n . 
+np vd n p np np n n . 
+np v `` adv '' vd p det n , cnj n n vd pro adj n p np n . 
+pro vd adv det p det det adv adj n , vd det adj n p n , adv vn n p det num . 
+pro vd det n p adj n . 
+p num adj n , pro mod v vn cnj det np vd , adv det adj , det n p n vg np . 
+cnj adj p det np cnj p np , pro adv vd p det np p adj n , cnj v vn . 
+pro vd pro v det n n n '' . 
+p det adv det n v vn adv p det n . 
+adj n . 
+det p det n adv v vn p det det adj n . 
+n adv v vn to v adv p n adj n . 
+`` num , n n v det n p det np n . 
+pro det adj n p np n . 
+p det n adj n v vn p n p adj n . 
+p pro adv det n , p det n p n , v pro mod adv v to v , `` pro adj , pro v v det n '' . 
+det adj n cnj n mod v det n . 
+n n vd adv . 
+cnj det n vbz det n , p adj n , p det n p n . 
+det n pro vbz cnj det adj n p n cnj v . 
+np vd det adj n p n . 
+pro v adj cnj np v v to v adv p det n cnj p num n pro n cnj adj . 
+det n p adj . 
+pro v det vg adj , cnj det adj n , det adj n cnj det adj n vd pro . 
+pro mod v vn cnj cnj pro vd pro n cnj pro vd det n v pro . 
+v det n p det p wh pro vd cnj wh vd pro p n . 
+n p det np . 
+n n , n n , adj vg cnj n cnj adj adj n , vn det n p det adj n , v vn det adj n . 
+det n v det n p det n p n . 
+adv , n mod v adv p p adj n . 
+adj n vn p pro n cnj det n vd det adj n p n p wh pro v p n . 
+det n v vn adv p det vn n , p det n , cnj np vd det adj n , wh mod v det adj v p det n . 
+pro v vn n p np np , det n n p np np n wh adj n v v adj . 
+det det v vn adv p n . 
+pro vd p num n adv to v np cnj pro adj n mod v vn . 
+n n v vn adv . 
+np np np , det adj n , adv mod v p det n adv vd pro . 
+det n . 
+p det n n vn p adj n , det adj n v v adv vn p n cnj n . 
+v np v * vn p det adj n , ex v det n cnj det n mod adv v vn p adj n . 
+pro mod v det n p det n n to v , adv , det n p n , n cnj pro adv . 
+det n , n cnj n n , p n , mod v n p n cnj det adj n p vn n n v det `` adj n '' p det n p n . 
+adj . 
+adj n p adj n v vn to v vn p n p det n vg np num . 
+adv . 
+n np v v vn p n n , cnj pro v vn n to v p num . 
+pro vd adj to v p det n p n . 
+n np v to . 
+pro adj n vd det adj adj n adv adj cnj * p n p adj n . 
+cnj det v n n p det adj adj n . 
+np vd num n adj p n . 
+pro adv vbz cnj det n vbz pro n to v adj p det n p det n . 
+n , n cnj n p det adj , pro v adj n . 
+cnj det n pro n v p det n n to v num n , cnj pro v vn cnj det n wh vd p pro v det adj n wh vbz , adv . 
+det adj n p n v vn adv , vg adv , p det n . 
+adv , cnj det n v v vn adv , pro v vn p pro . 
+pro mod ( num ) v pro n adv p det vg n cnj v det det n adv p np np . . 
+p np , det n v adv mod adv v pro n n p det n p det n to v det det n adv . 
+np mod v . 
+pro v det n np np mod v adv det n . 
+cnj det v vn p n , cnj adv pro v v vn p det n , pro v to v num vn n n . 
+pro v , cnj pro n vbz n cnj n , cnj v adj pro pro mod v adj n cnj n . 
+wh n . 
+np . 
+adv det np n vd adv p det n p adj n . 
+det `` adj np '' n v adv det adj np n . 
+v det n n v vn p det adj n , det adj n p n n . 
+adj n p n n . 
+det n p det n vd pro p n , vd pro p n p det n n , cnj vd pro adv p n . 
+pro vd det n p det adj np n , wh v v adj to v det n p det adj n , wh pro v adj p n . 
+np np vd cnj cnj pro v adj cnj np np v * adv pro vd , vd det n pro n , vd wh pro v p cnj vd det n cnj pro mod v pro n p np . 
+' v pro v p pro ' . . 
+det det n mod v adj n . 
+n n n v to v vn p det adj cnj n . 
+det det mod v vn p vg adv det adj n v vn adj p det n . 
+adv . 
+adv , det p vg p det n cnj vg det n n v adv . 
+adv . 
+pro p n p n , n p n , n p n n v v vn p det n . 
+det n vbz adv . 
+pro mod v det n p n . 
+ex v det n vg to `` v '' p det n . 
+pro v * det adj cnj pro vbz p adj n . 
+cnj pro v det n . 
+adv , det n n vd cnj p np np np vd cnj num p n p det adj `` adj '' n . . 
+' n n . 
+n vd pro adj n n `` np n '' . 
+cnj pro adv v det n n , det n n n mod v det n to v . 
+cnj det num adv vd vg n , ex v det n wh det n mod v . 
+det n v cnj p num n det n vbz cnj det det adj num . 
+pro v pro v det n p wh adj n v vn to v adj n n . . 
+n p det n p np np np np , n p det n np np . . 
+det n v cnj det n p n p det n v det adj . 
+np , np , np . 
+det n n cnj np . 
+det n , det . 
+pro n , wh v vn num n p vg n , v det n n p det n n cnj det adj n . 
+adj . 
+-- det adj n n vd cnj np np cnj np np vd det n n num n p np cnj pro vd pro n . 
+det n p n n v vn adj n p adj n . 
+p det n . 
+det n p n n , p wh pro v vn cnj det adj n , pro v vn to v p pro adj n to v cnj `` n p det n '' . 
+p det n . 
+np -- pro n , `` vg n '' , v adv * det n p pro n n . 
+p det n . 
+p det n . 
+pro v cnj det n mod v adj to v cnj v p pro n cnj pro v vn p det adj adj n cnj det n mod v . 
+vg n p . 
+to v adj . 
+p det n p n wh mod v to v p det n cnj n p det n , det vbz det adj n p n cnj n . 
+n n . 
+p det n . 
+p det n . 
+n n . 
+det n adv v adv p det adj p n cnj p n wh pro v det det adj n . 
+wh v pro v adj cnj adj n . . 
+det n mod v vn det n p det n vn p det n . 
+pro v adv p pro to v cnj det n p det n adv mod v p n vn cnj pro adv mod v vn . 
+' n p n . 
+n n : adj n . 
+adv det adj n . 
+ex v det n n to v det n cnj np v det `` adj '' . 
+p det n . 
+pro v vn adv num n -- pro v vn det adj n cnj pro adv v n p adj n to v pro p det adj adj n . 
+wh adj np vd p det n p det n , n p n vd p det n p adj n . 
+wh v adj v cnj pro adj n p det n v vn adv cnj det n p n p pro n . 
+p det n , . 
+cnj n p n , p n , cnj p n v v det adj n , adv pro det n v det n n . 
+det adj n v * . 
+pro adj n v v vn p det n p det wh v adj n vbz det n . 
+n v det adj adv . 
+det n n v adv cnj det n adv v adv p num n , cnj cnj det adj adj n cnj np vd mod adv v vn . 
+wh det num n adv vd adj -- p det adj p adj n -- det vn n vd to v num n . 
+det n to v adj n mod v det adj n . 
+det adj , np np v vn cnj np pro v det n p adj n . 
+pro v vn cnj det n p adj n p n mod v det adj n p det det n cnj adj n p pro adj . 
+pro vd adv p det adj n vn adv p pro , wh vd det det adj n . 
+pro vd det adj n p pro n , adv adv . 
+n . . 
+np v det adj , det n v det adj . 
+pro vd adv p det n cnj det n p np mod v adv det adj cnj pro mod v det n p vn adj n p np p det adj n . 
+det n adv vn cnj p det n pro n vd adv p det p det pro n n , p det adj adj n . 
+n p det . 
+det det mod v adv . 
+det adj , vn . 
+det n v vg to v p det n cnj mod v det adj p det wh v * v pro n p adj cnj adj , cnj adv cnj adj , n . 
+v p wh np np v to v : `` v det adj n cnj pro mod v . 
+cnj , cnj vg det n p num , pro vd num n p adj n num p np n cnj adv p det n p np . 
+n p np p adv vn p det n p det n wh v det n n . 
+det n n n vd det n cnj `` adv det n pro v to v p det n cnj n wh mod adv v n n n '' . 
+pro vd adv det np n n , vd adv pro n , cnj vd adv . 
+det n p det n cnj p det n n vd cnj pro v v vn adv . 
+n n : np np np vd , p n num p n n p num np num . . 
+det v det n . 
+uh , np cnj pro n to v vn det n p n wh vbz det n p det det det adj n n . 
+np v det n p det det . 
+adv adj n adv vbz p n n . 
+n vd p det n p adj n , adv pro vd adv p adj n p n n . 
+pro vd p det n adv . 
+pro vd p n cnj det n p det adj n , cnj det n pro vd v adv adj p pro vg n . 
+n cnj adj n . . 
+adv cnj n . . 
+p det adj n p det adj n , np np , det num n vd det adj n p det vg n p n cnj adj n cnj n , n p det `` fw fw '' cnj det p det np `` adj p n '' . 
+p det n p det adj n p n n v adj det adj adj n n , cnj det det adj n p vg . 
+det n . 
+cnj det n v vn p det det adj n , cnj pro v to v det n . 
+det n . 
+det n . 
+det n . 
+pro v det n adv v adj n cnj n . 
+cnj adj n p det n v vn p adj n vn : `` n , np , n , v pro pro n '' , `` det det n cnj n p n '' , cnj `` det adj n '' . 
+pro mod v to v det n p n p det det adv cnj pro mod v pro det p adv , cnj v det p adv , det adj n cnj n '' . 
+) wh adv vd det adj n p det n n p det n . 
+wh det n , pro n p det n adv vbz p det n p det det adj . 
+pro v * v to v vn det n p det n . 
+np np n p n p np cnj det n p det n p n p det n p n n num , v det adj n p adj n wh v vn p det n . 
+vn . 
+det n v adj . 
+det n v vn adv . 
+cnj adj n vbz to v adj cnj adj p det , pro mod v det n p n n wh v vn vn p det n cnj n p n p np p n . 
+p det n p pro n ex v n p n . 
+pro det vd det adv . 
+pro v n . 
+np np mod v det det n p np num . 
+p det np n p det n adv , np np vd to v det p det n , cnj np np , adv vg p det fw , vd pro det adj cnj np mod v vn . 
+np np , n . . 
+np np vd det n np n n p num adj n . 
+np np v adv adj p pro adj n . 
+np np v `` det adj , np n , vn p adj n p n . . 
+n v vn cnj pro v vn p n . 
+pro v vn cnj det p num n ( p det n p num ) v det adj n p vg p det np . 
+np np , wh vd np fw fw p det vg n , vd num det adj p det n p n . 
+p pro v adj n , adj p pro n cnj adv adj p det adj n p n cnj vd . 
+det vg n cnj pro n , np , vn p det n , vd det n . 
+pro mod adv v det np , det n n , p vg adv det adj n p det n n wh p adj n vd det n p pro vg n , pro n , pro adj n cnj adv pro adj n p det n p det n . 
+vn p det n p n p n , np , n cnj n p det n cnj adj n , pro vd pro n p n cnj n . 
+det n v cnj cnj p det adj n p det p det n vd adv adv p det n p n . 
+np np v det adj det n to v pro . 
+det n . 
+n , det adj n p det adj n , v vn to v wh pro mod to v det adj n . 
+cnj pro adj n cnj vn n v det adj cnj p det n cnj det det det adj n vbz to v . 
+det det adj n v p det n n p np np n cnj p det adj n p adj np cnj np . 
+p np , ex v adj n p n num adv p det np np , cnj det n p n cnj n n p det adj n v adj . 
+det n . 
+adj n . 
+adj n cnj pro v v vn p np np np , np , np n , n cnj n n . 
+wh vn n vd p num , det p num n vd det n . . 
+det num np np np v adj , np , cnj adj . 
+det n mod v , cnj pro v v p pro , `` cnj pro v n , adv pro v v num adj n . . 
+p np vg adv , adj n v vn cnj det n v vn p p det vn n . 
+np v vn adv cnj pro v vn det n . 
+det det n mod v n adv , cnj v det adj n p wh pro v adv vn . 
+wh vbz p det n vbz det adj n p n . 
+det vg n , det adj n , det adj n , det adj n -- det det cnj n v adj n p np n , cnj pro v adv vn , adj cnj adj cnj det vg n . 
+adv adj n n n . 
+p det adj n p n , n cnj n , det np v vn to v , n cnj n . 
+np v adv det n . 
+pro v det adj p n . 
+adj n vbz det n . 
+det adj n . 
+* adv p adj n cnj p det p det det vn cnj adv v det adj . 
+det adj n p det n n v v p det n det adj cnj det adj . 
+det mod v vn cnj pro v det adj p det n p det vg n . 
+cnj , p det n , det num n v vn . 
+np np vd p det n p adj cnj adj n . 
+p det n v n cnj adv cnj n . 
+pro v * v to v cnj np vd det n p np cnj pro n p det n . . 
+np , cnj pro vd v p n , p det ( n ) pro v vn adv p pro '' . 
+np np np , det adj n p det n , vd pro adv p det n p num , vg cnj np mod * v vn cnj n cnj cnj p det n det n to v pro p n mod v . 
+cnj pro vd adv p wh np v vn pro mod -- p vg n -- np vn p det n cnj pro wh vd det n p n mod adv v wh det n n v vn to v p n wh vd p pro n . 
+ex v det adj det n wh v adv v det n p pro n , cnj det n p pro n , wh v * p det n p det n p np , cnj p det np n , det n det adj n . 
+pro v det n cnj p wh pro v * vn . 
+adv v cnj det n v adv cnj adj cnj pro adj n . 
+cnj pro v adv . 
+vg p det n p np , pro v det det adj n to v det . 
+adv . . 
+det n p det n v v vn adv , adv cnj det n , det p wh v p det adj n , mod v np adv adv . 
+pro adv v to v det n p np . 
+) det num n mod v vn p det n p det n n cnj n . 
+v adj n . 
+wh p n . . 
+det wh v pro n v det n p det n . 
+det vg p det n mod v det n to v vn . 
+det n v adj n to v adv det adj n n . 
+n n p det adj n . 
+adj . 
+p vg p det vn n cnj vg det n , pro vd p vg adv p np cnj det n v det adj adj . 
+det adj n v v vn p adj n p n p adj n p det n , wh pro adj n . 
+det n p det n p det np np n to v det n p pro n vd det n p adj n p n np adj n . 
+pro v to v p det adj n adv . 
+det adj . 
+n v n cnj det n vbz p n . . 
+pro v vn cnj det v adv det adj p vg . 
+n p det . 
+adv p num det adj n v vg det to v n adj cnj to v adv . 
+det adj n n , p det n p det adj n , np np , det np v , pro vd pro p det adj n . 
+pro n v det adj cnj pro adv vn cnj det n p p cnj pro v vn n cnj v adj p n . 
+n p adj adj cnj adj n p pro n , n p n n , det n p adj n p adj n v n p det adj . 
+det adj vn det n n p det n , cnj det n vn p adj n p n p n * to v det n . 
+`` adv det n '' , vd det det , `` pro vd adv p np '' . 
+det n p det adj . 
+det v vn cnj v n p det n p np . 
+pro wh vbz cnj np v det np v vn p np . 
+pro v cnj pro v vn p n p n , cnj pro v det n . 
+p p np np cnj n cnj n cnj det adj n v p det n . 
+np p pro , pro n p n . 
+det n p det adj . 
+np vd pro . 
+cnj np vd pro . 
+pro mod v p pro adj n , v pro n , cnj n p n . 
+pro v vn , `` v , pro v p det n , cnj v : cnj det n v pro n , cnj v det n , pro mod v adv p pro , cnj mod v p pro , cnj pro p pro '' ( n n . . 
+det n v adv vn . 
+det n adv p wh n vd adv to v pro . 
+n p adj n v vn det n p n p det vn n , p n n cnj p n adv . 
+n vd p n p n cnj np np v p pro n p np , vg p det n wh pro v vn np p num n . 
+pro p pro v adj cnj det adj n v adv adv . 
+pro vd adj n p det n vg adv vbz p n . 
+p pro n , pro vd to v : pro n p n to v n . . 
+pro v vn np vg pro n p det fw . 
+det det n p np v vn n p np v det det n , vn p adj n p det n adj n p n . 
+det det adj n p det n . 
+pro mod adv v det n p det det adj n cnj pro v vn p pro n . 
+cnj pro vd cnj pro v det n p det n p det n ex det n wh pro mod v det n p det n vn p n p det n . 
+pro vd det adj n p det n . . 
+n , n cnj n v adv p adj n , cnj num det n adv v v vn p vg n n . 
+adv adj n mod v vn cnj vn . 
+det p np n vbz pro cnj n , adv . 
+det n p adj n p adj n vn n to v p n det n p n . 
+pro n vbz pro p det n , cnj pro mod adv v adj p adj n wh adv v adj adv p det n . 
+np v num n p n cnj v det n p pro n det n . 
+cnj det n v * v det n p n , pro v v vn cnj vn n adv v vn to v det n . 
+pro adv v vn . . 
+n v vn p det n p det n , p det adj n p det n cnj p det adj n . 
+n n v adv p det adj n cnj n . 
+adv , ex v det n p adj n p vg . 
+pro v det adj n p n . 
+det n vg det adj n v det vg n p det n p det n n . 
+adv v num n vg n n ( wh v adv ) . 
+n p det n n cnj n p n . 
+v num n p n n n n n '' adv . 
+n cnj vg . 
+v det n p n '' cnj n '' adj cnj v pro p det n num n vn p det vg n . 
+n p det adj n . 
+n to v det n cnj det adj cnj adj . 
+v det n '' cnj n '' n p n '' n n n p det n n cnj adj n n . 
+n to v vn adv mod v vn p det n . 
+p n : n . 
+adv , det n v vn adv cnj n . 
+det n mod v p det adj n p det n p det n cnj pro mod v adv p det n . 
+det n p det n v vn p det n n n . 
+vg det n p det n pro v det n : n . 
+det n v p det p det det n p det np n cnj mod v adv cnj det n cnj det p pro . 
+np ( np np np ) , num , vbz det adj . 
+det n vd p det n adv det np , cnj adv v vn p n cnj n p det det n , cnj adv vn to v cnj vn p det adv , vg pro cnj n . 
+det n p det n v adj cnj pro p det n , adv det n . 
+pro v adv vn p det n cnj np num , vn p det vg n adv p det n n cnj pro adv . 
+np np ( np np np ) . . . 
+np ( np np ) num . . 
+np np ( ( n np np ) num . . 
+np np ( np np np ) num . 
+pro mod v adj to v pro adv p det n p n p det adj n . 
+cnj adv vn cnj vn p det n p adv , n p n , pro mod v det adj n p det n , np , vg . 
+cnj det np n , pro vn det adj n p det n n p adj n . 
+v adv , v pro v -- cnj v vg det n . 
+n n v adj p n p n . 
+adj n v vn . 
+( np v adv vn p wh vd adv , det n cnj np . 
+pro v adv p n , cnj v pro v v * to v det n . 
+v det n p det adj n , vn p pro num n p vn n , p det det adj n , det n p n , cnj det adj n n , adv vd p det n p n , cnj vd pro p vn n p n . 
+det . 
+n p det adj n , np , p n p det adj n cnj adj , adj n . 
+vg p det . 
+det adj , det n p det adj n v adj p det adj cnj det n vn n v adj . 
+adv , det n p pro v * vn . 
+n v vn , n p adj n . 
+det . 
+det adj adj n v det n p det n adv adj det n . 
+p det . 
+det n p np n cnj det n p adj np n mod v det adj n p det adj n . 
+n p det adj n v det n p np n p np n , np , wh adj n v det adj adj n n p pro n n . 
+n n mod v det adj n p pro n , cnj wh adj n to v pro adv p np n n n . . 
+det n p n : v pro n adv p n . 
+ex det n vd adv p det np , det n n p n , p det n p det n p det adj n , det adj n p n wh vbz p det np . 
+p det n p det n det n p det n vd n p det n . 
+det det n adv det n vd adv . 
+p det n p det adj n v adj n p adj n . 
+pro vd p det n p pro p n vg vn n cnj vd p det n , wh vbz adj n cnj n n vn p n , det n , n vg p n cnj adj n p det adj cnj adj n , p wh det n vd adj . 
+det vbz det n to v det n p vg . 
+n n p . 
+n , n adj n , n , n cnj vn p det adj n . 
+adv . 
+n vn p n num . 
+n p adj n n n v n p n . 
+n n p n vbz p adj n p n . 
+adv cnj n n p n n det adv cnj pro v p n '' cnj v det n . 
+n num n p n np , v p n . . 
+) v adj n p n '' n . 
+vn adv to v adv . 
+det vg n p det n , v vn n . 
+n n n p n cnj v p n p n . 
+to v n , v det adj n p det adj n p n . 
+v det n v adv p det n . 
+n n p n n . 
+vg . 
+v det n p det adj n , num p n p det det . 
+det n v vn cnj vn p det n . 
+pro v p det n cnj det vn n cnj n v vn . 
+adv v det n . 
+cnj det n v vn , n det adj n n n p det n . 
+p det n n p n , det n v vn cnj vn adv p det n n . 
+det n p det adj n p det n n p det n cnj det adj n n v vn p det n p det n . 
+det . 
+pro v vn cnj n v det vn cnj adv cnj vn p det n . 
+det n p det n mod v vn adj p n p det adj n cnj n . 
+v v det n . 
+vbz cnj . 
+det det n mod v det n p pro vg n cnj n p adj n cnj vn cnj vn n . 
+det adj n p det adj n p np v p adj n p det n . 
+np np , wh vd cnj adv vn det n n p n p adj n , v det n wh vd cnj vd det n p det np , cnj `` n n '' n cnj det adj n v vn adv p det n p np np , wh vd n cnj n . 
+cnj pro vd p pro n p adj n wh pro v num n adj . . 
+pro vbz : `` n . 
+wh to v . 
+det adj n p n p det n n mod adv v vn p det adj n . 
+wh vd , pro v n n . 
+pro v vn . 
+det n vn adv p det n p n n mod v adj p num n . 
+adv cnj pro v p det n , det n mod adv pro , p pro v vn cnj det n p n n p det adj n v det adj n cnj mod v vn . 
+cnj pro v det n n , pro mod v vn n . 
+n p n mod v p det det n n pro v cnj v vg n adv . 
+det n n vbz p det adj n p n . 
+det n p det n mod v n p pro cnj n n p pro . 
+n p det n v adv vn p det n n cnj n p det n . 
+det n mod v p adj n n , det n p n mod v to v vn . 
+p det n , pro v det adj n p n . . 
+det adj np v adv . 
+pro mod v vn cnj det det adj n p n mod v vn det adj n p det n , adv num wh n v det adj cnj adj . 
+wh det n p n cnj n . . 
+det adj n p pro adj n ( det adj n ) . . 
+adv v det adj n p det adj n cnj det n v vn . 
+det adj n p det n cnj det n cnj pro v adj to v cnj det n vbz pro det adj n p det n . 
+np adj n v vn n cnj v det adj n p n . 
+v det n p det n cnj p det det n v det adj n adv p n . 
+det n mod v adv , vn p det n . 
+cnj vg n , det adj p adj cnj adj n , adv vbz p det adj adj n -- cnj mod v adv adv . 
+num adj n adv v det adj n n . 
+n n vn det n p det `` n '' p p num p num n n . 
+np n vd det adj n p det vg n cnj vg pro n cnj adv cnj p det adj det n p n . 
+pro n vd det num n to v cnj v adj . 
+pro adv vd pro n p n cnj vg p n . 
+pro n v adj cnj pro n p pro v adj . 
+adv pro v n n p n . 
+-- to v n p n cnj v n n , v num p num n p n p adj n . 
+-- to v n p n cnj v n n , v num p num n p n . 
+n . 
+det n . 
+adj n p n . 
+adv p det adj n p det n , ex v adv adj n p cnj p det n . 
+det n n v vn adv p adj n , det p det n cnj det n v vn to v adj n cnj vbz . 
+adv adj n p `` p det n '' n v vn pro p pro n . 
+wh adv v pro v cnj pro vd det n p pro n cnj n n . . 
+v pro vg n vg adv det adj n p n . . 
+v pro vd to v adj adj n p det n . . 
+v n v pro n p n p adj n . . 
+p det , v vn adv adj n n adv to v n adj n . 
+n to v pro n n n . 
+v det adj n p n . 
+vg n mod v det adj n p det n p det n p vg n p n n . 
+det v : n p n , n , cnj n . 
+v pro n n p det adj adj n p n cnj v det n adv p num n . 
+np adj n p num v vn p det n p det n p n . 
+adv det n wh vbz p pro vbz det n p np p n n vbz num p det det adj p det adj n . 
+ex v det det n n vg to v p det n p det n . 
+wh v det vg n v p det n p n . . 
+cnj det n v wh det det n v adv vg vg . 
+n v to v pro n p adj p adj . 
+p det n ex v det adv vn adj n . 
+det num n v v vn p num n cnj adj n mod v p det num n . 
+num , v det adj n p det n n . 
+pro vbz cnj det n mod v vn adv p num n . 
+num n adv , det n adj n v vn p n n . . 
+n v adj n cnj det n , adj n , adj n cnj n , n p n , cnj adv cnj det n p n . 
+adj n v adj . 
+adv , n n p adj n v det adj cnj p adj n n . 
+adj n n p det n . 
+adj n p n n v det n p num n cnj n p det . . 
+n p vn n v vn p det n n cnj det adj n mod v vn . 
+pro v vn cnj det n mod , p det det det n , v det p det adj n n adv p n . 
+pro mod adv v vn p adj n p n p n , cnj pro mod v vn adv p vn n n . 
+adj n v det . 
+v v to v det adj n n p det adj n . 
+num n adv det n cnj n adj n n p det n p n n vd adv . 
+det adj n vd cnj p det adj n n mod n pro n p vn n . 
+adv vd det num n p det adj n ( adv adj n ) p n p num n n ( wh vbz adv p det p n p det n p det n p n p num n . 
+adj n n num . . 
+adj n n num . . 
+pro v det adj . 
+pro mod v num p det n n n adv ( np , np , cnj det n , cnj n ) cnj v pro to v det n p pro n , cnj det n n v det n cnj adv . 
+p pro n cnj n mod v v adv cnj det n . 
+cnj n , adv . 
+adj p det adj n v det n p n wh v vn cnj n p det adj n . 
+pro mod v det n p det n p n , adv . 
+det , adj n p n vd pro n . 
+p det n , det adj n vd det n p np n . 
+pro vd pro p det n cnj vd adv adv det det n cnj pro n vd adv . 
+np cnj pro vd adv p det n p det n . 
+pro v , `` pro v det adj n p v vn p det det det n adv . 
+det n mod v vn p det p pro . 
+adv , n wh v det n cnj v cnj pro v vn adv det n p n , mod v p det vg n p pro n p n , n num . . 
+n v det n p n , np , n cnj n . 
+adv det p num n p pro mod v adj n cnj pro v . 
+cnj np v vn det adj n cnj pro v det adj n p v vn p det adj n n p det n p det n , pro mod v v vn cnj pro v det n p fw fw . 
+`` np np n vn pro cnj det n '' . 
+np np , cnj n n , vd det n cnj vn p det n . 
+pro v vn n , n cnj n . 
+vn n cnj n v vn p n cnj n adj cnj n n . 
+adj . 
+cnj det n n n , pro vd det n n p det n . 
+det n vd det adj n vd adv p n n . 
+det adj n vg n , cnj n , n cnj pro vd pro n p det n p det adj n . 
+np vd to v pro n p det adj n p det n v adv . 
+adv p det n vbz n p n n . 
+adv , pro vbz p det adj n . 
+uh adv . . 
+n v det adj . 
+n vbz adv . . 
+det n v det adj n adv p n . 
+n v det n p n cnj det mod adv v vn . 
+vn p n cnj n , pro vd p adj n n np np v pro p det adj n . 
+`` pro n v cnj pro vd det n p pro vbz p np '' . 
+`` det det n . 
+pro vd det adj n . 
+det n v vn '' . 
+det n adv pro vd det np n n , np np . 
+pro v v p det n num n cnj v adj p wh v vn p det n . 
+n v cnj det n p n , n cnj n vd pro . 
+pro mod v adv p det vg n . 
+det n ( num p det n p n , vg det adj n cnj det num ) vg to v cnj n . 
+n p det n p num p num n adv , wh det n v vd p det adj n , adj n v cnj det n n v p det pro n p det n . 
+wh adv mod det n . . 
+n wh mod v n p n p det n mod v n p n p adj np n cnj np . 
+cnj p det vn n det n v p n n cnj p n . 
+det det n mod v det n p n . 
+det n mod v adv adv , cnj , p n , v adv p n . 
+adj n mod v det adj n , n , cnj n -- cnj det adj n . 
+n n mod v vn p adj n , cnj det adj n mod * v to v p det det n . 
+adv , v det n p adj n p det n . 
+p det vn n det n p adj n , p det adj n p det n . 
+det np n vd p det n , * p det n . 
+det adj n v wh pro vd p n p det n p n , cnj det n p det n v * to v vn p n pro . 
+det adj n vd cnj det n p det n p pro cnj v vn p det n cnj n p n . 
+adv p n pro vbz to v n p det adj n wh vbz pro p adj p n cnj n p det p pro . 
+p det n p n , pro v vn p det n p num . 
+det adj adj n , adv , n det det det adj n p n n . 
+det adj `` adj n '' vd p det adj n . 
+det n vbz det n p pro det p n p n n n . 
+pro v vn cnj np v vn p det adj n p det np n cnj v vn p n n . 
+p n v det n num n adj vg adv p det n p num n . 
+np np np vd np v vn n p det n . 
+cnj np vd pro adj n p det adj n , det n vd det adj n p pro . 
+pro v np wh vd p np np cnj pro n p det adj n p n p det vn n . 
+p det n np vd cnj det n p np n p np cnj det adj vn n v det adj n p n p np to v adj n cnj cnj det vn n v det adj n p n p det n cnj cnj np cnj np . 
+n p adj n cnj det n p det n p det np vd det vn n n n p num to v det np n p np to v det n num n n p np np np , cnj adv det det vn vn n n . 
+pro v p det adj n cnj adj n n p n v to v vn adj . 
+pro vd cnj vd adv p det adj n p det n . 
+det np n vn p np vd p num . . 
+pro v adv det n cnj n . 
+adv n vd n cnj n v vn p pro n . 
+pro mod v wh pro v cnj det n pro v n '' . 
+det n vd cnj pro n v `` * v p det n p det n '' . 
+pro n mod v det n to v det n , det det det n . 
+pro v det det n cnj det p det n cnj v v num n adv p det n , det adj n '' . 
+num adj n vd : `` det n v det n -- n mod v vn p n cnj n wh det n v adv '' . 
+pro mod v det n p np p det adj num cnj num n cnj pro vd pro n p n cnj n , cnj pro mod v vn adv p det vn n p det adj n . 
+p det n , det n pro v det vn n . 
+det n v adj to v det adj to v adv . 
+det n vd pro p num n cnj pro v adv vn p n p num p pro . 
+pro vd det adj np n cnj n p n np np . 
+np vd pro n v cnj det n p pro n , cnj vd p det adj cnj adj adj n . 
+det n mod v vn p det n n n , det n cnj det adj n . 
+n v adj , adv , p det adj n . . 
+pro n adv v det adj cnj num n p n p n . 
+det n p det n p pro v n . . 
+det adj n cnj pro . 
+det adj n v vn p det adj n . 
+cnj vd np np . 
+det n vd det n cnj vd adv det n p det n p det n . 
+pro vd p pro n . 
+cnj adj p det n cnj det det n , det n wh adj adv , mod v p pro . 
+n . 
+p pro n . . 
+pro vd p det n det adj cnj np . . 
+n mod v vn p . 
+det adj n p n p det n vg np n . 
+p num n , np n v vn p det p n p det adj -- det n p num num num n . 
+pro v vn p det adj n wh v p det n . 
+det adj n vd pro n p det adj n , vd adv p det n , n p det adj n , cnj vd det n . 
+cnj pro adj n p det n v det n . 
+p pro vd pro p pro n . 
+adv , num p det , det n vd det vg n n p pro n . 
+`` v adj vbz pro adj n '' , det n vd . 
+`` pro v to v det n wh pro v adv . 
+adv , p det n , ex v det adj n p * vg p n . 
+det adj n adv v p det n p det adj n . 
+p det n , ex v det adj n p vg . 
+pro n vd pro cnj pro n vd det adj n p n cnj n . . 
+adv pro vd det n p det vg to v pro p n . 
+n p det n n v adv vn to v vg , cnj n v det adj . 
+det n v n p n , vn cnj adv p n . 
+det det n p det n vbz det n , adv p adj n . 
+p vg det n p det n p det n n , np v vg adv adv p n . 
+p np num , num det n np vd n p adj np , cnj p det np np cnj np np vd n p pro n det n wh mod v vn adv p det vg n p vn n cnj n . 
+np v det n . 
+det n vbz adv . 
+p n , det n n n n , np np , v vn det adj n ( p adj n ) . 
+det det adj n v det n p det n . 
+n n v p det n : n mod v p n p det n . 
+wh to v p pro adv cnj pro v n . . 
+det v adv p np v vn det n . 
+wh v np v p np np cnj det adj n p pro adj n . . 
+vn wh det v , pro vd np . 
+n vd adv '' . 
+pro vd p det n p n p n p pro v cnj n . 
+cnj pro vd p pro . 
+det n p det n v det n p pro . . 
+pro v p det det adj cnj det det adj n to v adv n p n p det n . 
+pro mod v to v num n pro vd p pro num n p n p adj n . 
+det adj n n v det adj n p det adj n . 
+to v pro p det adj n v `` adj n '' . 
+det n vd det n p n `` n '' . 
+pro v vn to v `` p pro n '' wh n . 
+det det n v vn to v `` uh '' . 
+n . . 
+det n v vn p adj n , uh cnj n , cnj adv vn cnj wh np vd n p np cnj vd , np vd p num n adv . 
+pro adv det det n p det n '' . . 
+np v v p det num cnj num n p pro wh pro adv vd adv p det n p det n . 
+n vd pro , adv , cnj pro v vn cnj vn p det n p det n cnj mod * v , adv . 
+cnj pro vd p det n cnj n , cnj det n vd adv . 
+p det n pro v vn p det adj n adv p det n . 
+np vd pro num . 
+pro vd . 
+det , v det n . 
+p p pro n vd adv p det n . 
+cnj n vd adv . 
+det adj n to v det n p det det n v adv vn p adj n cnj adj n . 
+pro v adv cnj det adj mod v adj cnj det adj v adj . 
+pro v * vg pro v det adj n vn p det n p adj n . 
+n n , adv -- adv cnj det adj n mod v `` adj n '' p pro n -- vd adj n p det n n cnj vn adj n , adv n , wh p wh det n vd det adj n p v , vd num n , adv vn , adv vn p det adj n n p det n p det adj n n . 
+det n n vg det n vbz n p n p n . 
+pro vd det adj n p det np n n . . 
+det adj n p adj n . . 
+pro adj n vn det n cnj det n v det n p det adj n . 
+det det adv p det n pro v p det n p np np , vd det `` n p det n '' . 
+p det np np cnj . 
+v det n p det n p det np np np np np p det adv adj n p det n p np . 
+v adv adv p det np np , v det adj np np , cnj pro mod v p det np np np , wh pro mod v adv p det n p np np np vd to v det n p det n . 
+n p np , np , cnj pro v p n ( adj num p num ) . 
+adv p n p det n p det np np np pro mod v p det np np np , det adj n p n p det adj n p np np . 
+n p det n p det n cnj p num n p det np , pro mod v p det fw fw fw . 
+cnj adv v det n . 
+pro n vd pro cnj vd pro adj . . 
+pro v vn p det n cnj v pro adj n p det n . 
+adj n , n : n p det n p . 
+det n p det n v adv adj . 
+adj n p adj n v vn : n , n , n n . 
+adv p pro v vn to v vn p det n cnj det n p pro -- adj n cnj adj n p det adj n -- det adv vn n p det n p det n . 
+det n p pro v det n . . 
+det vn n p adj n v vn det n p n p n p det adj n . 
+to v pro v det adj n p adj n , p pro vd det adj n p det n p det n p np . 
+pro vd to v pro n p adj n , cnj vd det n . 
+det adj n , adv , v n np np . 
+p n np np n , pro v det det adj n adv vn p . 
+det n n v det n p det , cnj p det adv p np n . 
+ex v det adj n p n v vn p det n p adj n p det n . 
+ex v det n to v det cnj ex v det n . 
+det adj n mod adv v adv p np . 
+pro np v num p det det det n p np wh v vg to v n p n n cnj n n . 
+det adj n p adj n p det adj n mod v det n p det n n cnj adv cnj det mod v vn p det n p det adv adj n . 
+cnj p n p det n , n adv v p det n p det n . 
+cnj p pro pro mod v adj cnj pro v vn to v adj n n . 
+det adj n v adv adv . . 
+pro n p det adv vn to v cnj det vn n v num wh v adj cnj det n vd det n . 
+cnj det n v cnj adv p adj vg pro mod v vn p n cnj np n cnj pro v . 
+det num adj n n p det np p n v cnj pro v vn cnj adj n . 
+det adj n p det n v `` adv '' . 
+adj n mod v adv vn p p det vn n . 
+pro v * v cnj det det n p n mod v to v det adj n , cnj pro v cnj pro mod . 
+pro vd det adj n wh v vn `` n '' p n to v pro to v det n vg p det n . 
+det n wh v det n adv mod v pro n p n , det n adv , det n adv , det n adv . 
+pro n v to v cnj det n v det n cnj adj . 
+`` adv , np , pro n cnj n '' . . 
+det n v adj p det det np cnj adv det adj p det det adj . 
+det n v to v p det n : n p det n n p det n . . 
+det n adv vbz det n p det n . . 
+v det `` uh , fw fw fw fw fw fw , det n vd det vg n , cnj pro vd p pro n cnj n , vg cnj det n num v adv vd p pro n det n . 
+p pro adj np , wh pro n vd pro to v det n , pro v adj to v n cnj pro vd det n . 
+np n cnj det adj n p n n v p adj n p pro n . 
+num n adv pro v vn to v n p det np n . 
+pro mod v vn . 
+adv det det num adj n p det adj n vn adv adv p det vn det n p n . 
+det num n v adv vn p det adj n . 
+det num vn adj n p det n p n p det adj n p n . 
+adv p det n , p n , det n v vn det n p n p det adj n , det adv cnj adv . 
+det det n mod v det adj n p n . 
+cnj ex v v adj n cnj adv : det n , det n n , det n n -- det p det v vn adv num n adv . 
+adv det n v v adv adv vn p det n . . 
+adv , det det adj n n v det adj p det n n p n : pro vbz to v det n p n . 
+det n wh v vn p det n v adj p np np n p det n p adj n : `` num n mod adv cnj adv v p det adj n '' . 
+adj n , vg adj n p n p pro adj n p n , v vn p adj n . 
+np np n p n cnj det n p adj n . 
+pro mod v n p n p det n n . 
+adv , ex v adv det n cnj n mod v n det n v adj to v . 
+pro v vn to v cnj , p det n p det n p n p det num n , det adj n p det num n v vn . 
+cnj det n cnj p det np vd det det n p n p det vg n vn n p det adj n . 
+v det n p n adj p det adj n p n p det n p np . . 
+to v det n v vn det adj n adv p det adj cnj adj n cnj n vd adv p n cnj n . 
+det n wh vn pro n p det n vd n num n adv . 
+pro vd det adj n n n p det n . 
+pro vd cnj pro mod v pro adv cnj pro v det n , cnj np v * v p det n n . 
+adv , pro vd , mod * adj n v vn p det n p det n . . 
+wh v det n . 
+det adv . 
+p det n det adj n -- adj -- vd pro wh pro v adv p n . 
+det adj n p np np v adj p n pro v vn p det n . 
+det n vbz to v adj p n wh v p det adj n : det n p n p pro adj n , det n p n , p adj n . 
+pro p det adj n vd pro p adj n . 
+det n v p n p pro adj n . 
+pro n , pro v v vn , vd pro n pro adj n . . 
+pro vd det n n p det n p adj n cnj det n n p det n p det n , cnj det adj n p det adj n p det n . 
+cnj det n . 
+n . . 
+n p det n cnj vd cnj n p det n . . 
+det n , n p pro adj n , vg n vn p pro adj n n cnj vd to `` v n , v '' . 
+det n vd adv p det n , det n p pro vd p det adj n p det n n , cnj adj n v vn vg vn p det n . 
+det adj n v vn p n cnj det n p det n . 
+det n , adv , cnj pro vd pro v . 
+pro v det adj n cnj pro v vn adv adv . 
+n v vn p det n , n v vn to v pro p cnj p det n p det n p n , cnj adj p det n , n cnj n , v det n p n , det n p n , cnj det n p det n p n . 
+wh v to v , p det n '' . 
+det n , pro mod v p num , vbz p n , cnj det n p det n vbz p n . 
+pro adj n v vn p det n p n . 
+det n p adj n p n p det n p adj n v vn n p det n p n wh v vn det adj n . 
+cnj p n pro v vn p vn n cnj pro n cnj v vn to v p n n p pro , cnj pro v adv vn p det adj n p n . 
+det adj n p n p det n p adj n v num p n p det n . 
+pro v pro p det n to v wh pro v , cnj pro vd det det det n adv , p det n v p np p n . 
+p p det num n n v vn cnj det n v vg p pro . 
+det np v det n adv vd det adj n p det n cnj num n mod v det adj n p n p det det n . 
+np np np np np n p pro v adj p det n , cnj adv vd det adj n . 
+np vd p det n p pro `` n p n '' . 
+uh , cnj pro v vn det adj np n p vg pro n p adj n , adv det adj n v vn . 
+pro v det n , det n , p det adj n . 
+v pro vd , np , cnj det cnj n ( adj n , wh v ) v det adj p det n n wh vd det n p det adj np n p det adj n n , det n v v vn p p adj np , to v p det n , to v adv p det n n vn p n p det n . . 
+p det adj n , pro v det n p pro n . 
+p det adj n p det n pro vbz det det n p det adj adj n , cnj p det n pro vbz pro . 
+np v vn p det n p n cnj det adj n . . 
+pro v vn to v vn p det adj n p det adj n . 
+np np cnj np np np ( det adj n p det n cnj np np ) v vn p n cnj * pro n p n cnj adj n . 
+adv , p n pro mod v p det n cnj n mod v vn p p n num . 
+vg p det n , pro v det n n n v adv p det n . 
+n n v vn det n det n . 
+det n v vn p p det n p det n . 
+adj n v v det adj n p det n p det n p n . 
+det n p det adj n vd n p det n p np p det n cnj adv vd np p n . 
+np np vd det n p det n . 
+pro mod v n p pro p det n , adv , to v p n np . 
+cnj adv det det `` n '' v adj n cnj n . 
+det np vd adv p det n p np cnj vd p det n p n p n . 
+np v * v pro cnj np v det adj n . 
+p det n det n v vn vg p det n . 
+pro v pro to v det n , cnj pro vd det adj adj n . . 
+cnj p det num n det n p det adj n p det n mod v v adj p det n cnj pro v vn to v pro det n p n . 
+wh det n cnj pro v * vn n p det adj det n vd to v pro n , np np v vn to v pro adj n p det n cnj pro v * vg to v p det n det adv . 
+det det n p det n adv vn p n cnj n vbz p det adj n wh v n p n p det adj n . 
+p det n v * det n p num adj n p det , cnj det n p n cnj n p n cnj n . 
+p pro v det n vn p num det adj n p n p n p n n p n . 
+adv , pro v adj cnj det n v vn det n det num n p n vbz . 
+cnj det n p det n v vn p pro n p det n p pro . 
+p n p det n pro v vg , det n v , p wh n v det n v vn . . 
+cnj pro mod v det n v det n p det n . 
+det n , p n , v p adj n p det adj cnj adj n p n . 
+adv pro n p adj cnj adj n v vn p n cnj p det adj n p det adj n p n , cnj det n p n v vn adj n . 
+adv det adj n p det n v vn . 
+pro v vn cnj np p det np n v det adj n cnj det adj n p n . 
+p num pro vd to v p np . 
+pro adj n v cnj pro v vn det adj p det n p det n , vg cnj wh pro vbz p det n v vn p pro adv cnj cnj pro vbz det n p pro adv p pro adj adj n . 
+pro adj n vd adj n p np cnj adj n . 
+cnj pro vd p n p det n wh v v vn adv , pro v adv det adv cnj adj cnj pro vd p n wh v adv vd . 
+det n ex v n wh mod v p det adj n wh vd p det n cnj n p det num n . 
+det vbz det n p det adj n p n . 
+cnj det np n , cnj pro vd , v det adj n p det np . 
+cnj pro vd adv . 
+v pro adv . 
+p det n , n vd det adj p det adj n p det n cnj pro vd det n n , cnj p det adj n p n . 
+p n p det n , np vd p det n n p det n np n , p wh pro vd det n p adj adj n -- det n p adj cnj adj n , cnj vd p pro . 
+det mod v np p det det adj n p det n cnj np mod v vn np . . 
+np vd p det , cnj vd cnj np v vn adj n p pro p n . 
+pro v vn det adj det n to v adj p n . 
+np v vn p np . 
+np vbz pro v det adj n adv vn p det n cnj pro v adv vn p det det n p det adj n . 
+np np vd cnj pro v adv cnj v num . 
+`` pro vd cnj pro mod v pro p det ' adj ' n '' . 
+np cnj np vd p np p num p np np n n p pro n . 
+np v * v adj p n cnj n . 
+det n p det n mod v det p det adj n p det n cnj p vg p det adj n p det adj n . 
+vn n mod v vn p det np adv . 
+p det n n , num n p n n , det adj n v vg . 
+np vd cnj vd pro . 
+det det v p np np p det np adj n . 
+`` det n v cnj np vd adv p np vg pro v vn adj n p det n . 
+pro v vn adj p det det . 
+p det np n vd to v adj np . 
+det n vd p det n p np n p np num , cnj p det n p det n vd p det adj n . 
+np v adj , cnj pro vd cnj det n v vn . 
+det det n p det np vd , np vd p np cnj np v vn to v p n cnj det n v vn adv . . 
+pro vbz pro `` n '' p vg cnj np v vn , cnj det n v vn to v adv adv p det n p np , cnj cnj det n cnj det n p np v p det adj n . 
+det n vd pro n to v det adj n p vg det n p det n . 
+det n adv det n vg det np n vd det n p n , det to v adv det n . 
+det adj n , vn p det adj n p n vd p n , vd p vg det vn n -- cnj v , p det n p det det n -- p det adj n . 
+p pro np vd det n p `` adv p n vn p n p pro '' , vn p det det adj p det det n , p adj n . 
+ex v det det n '' , vg det adj n p det n . 
+det det adj n , adj p det n , vn cnj det n p cnj p det adj n . 
+det n vd pro , cnj vd p num n . 
+`` v pro , np . 
+num n pro vd pro to v adj det `` n '' p det n to v n p det det adj n pro vd v adv to v p np . 
+np np vd det n p det n cnj n p det n p det n . 
+cnj pro v * p n , n mod v p pro cnj det adj adj n v adv . 
+n vd det n v vn to v np np v pro n p vg pro n p det n . 
+pro mod v to v adv det n p det n np np v vg p det n . 
+-- pro vd det n n -- p det n v vn det n . 
+det n v vn cnj wh det np v adv , det n mod v n p n . 
+pro vd det n p n wh pro adv vd det n n to v det n v adv cnj v pro n cnj pro vd . 
+cnj p adj n pro adv v p det det n p det n p det adj . 
+pro mod v to v det n adv . . 
+det n p `` n '' v adv vn p det n . 
+cnj to v p adv p det n cnj det det adj p n cnj n mod adv v det adj p adj n v det adj det adj n . 
+p det n p adj n pro mod v pro n adv p det n p det adj n cnj det adj n , cnj v det n p n cnj adj n . . 
+det np np vd cnj pro mod v vg p adj np , cnj det n vd adv . 
+pro vd p det n cnj pro vd to v det n cnj pro v * vn . 
+n vd p pro p det n p pro n n n . 
+det adj n , adv , v adv vn p np n . 
+det n vn p p pro p det n p det n adv p pro v vn p det adj n . 
+`` pro v det adj . 
+wh det n n vd adv det n vd pro adv vn , p pro n vn n p det n n p det vn n p n . 
+num n vbz cnj num n n v vn p np n . 
+det n det n vn p det n cnj vn p p det vn n vd p np vg cnj det num n v p n p np . 
+np vd adj n p n vbz . 
+det n v det adj . 
+det n v adj p adj n cnj np vd pro p det adj n n . 
+adv vd , adv vn n , p pro adj n p n , v num n . 
+pro vd wh pro vd cnj det `` adj cnj adj '' n p pro n cnj vd cnj pro vd cnj pro vd num det adv . 
+p det n , det adj n p det n v adj n cnj cnj pro v vg n , pro v adv p n p pro p det n cnj pro v v p pro adj n . 
+cnj det n , np adv vd det adj n . 
+adv , pro vd cnj np np v det `` det adj n '' cnj adv cnj det n p `` adj n p n '' . 
+adv det n mod v p pro n , cnj adv np np v vn . 
+p n p n pro v , adv -- p n p n p n -- `` vn adj n p np np cnj pro vd pro pro n cnj adv p adv v * v pro to v v np np . 
+adv to v det adj n cnj pro p det . 
+pro v adv vn n p det n p num n . 
+adj n n p det n , vg n cnj adj n . 
+`` adj n , adj n -- mod adv v adv '' . 
+pro v det adj . 
+pro v adv p num . 
+cnj adj p det adj n pro v * vn . . 
+pro v pro n v adv v vn adv . 
+det det adj n v `` uh , np , pro v n p pro n '' . 
+det n vd adv . 
+p np , n v vn p det n p n , cnj pro vd to v np p det adj n p det n . 
+pro v cnj n p np np p pro to v cnj , p det adj n , pro v vn p pro n , cnj cnj det n cnj cnj det n . 
+pro n p np vd pro det n , det n , det n , det adj cnj det n , det adj n p det n . 
+pro v vn cnj vn . 
+pro vd cnj det n p pro mod v adv cnj v det n p adj n . 
+p n cnj det adj n v to v pro p pro n , det adj n p np , uh , vd pro n p np cnj vd det n to v det n . 
+det det n , num n v vn to v det n . 
+`` pro v vn adv det adj '' , pro vd . 
+pro vd det n cnj vd p np . . 
+pro adv adv adv . 
+pro vd to v adv p np p det n p n . 
+p det n ex v adv det n cnj det det n . 
+np v * adj to v det n p p det n det n vd . 
+pro vd p det adj n n cnj p det n n p det n . 
+p det n p det pro adj n v cnj pro mod v adj n p det vg p p np n p n . 
+pro v adj p vg n p det n wh vbz pro adj to v cnj v n p num n cnj n p det n p det adj n . 
+num p pro v cnj pro vbz n cnj n p n . 
+pro mod v det n p n , n cnj n wh v vn p det n p det det adj n p vg cnj det n vd p v det n . 
+v pro adv v det n p det n . 
+cnj pro v adj p pro n p det n . . 
+n v p det vn n p det adj n cnj adj adj n . 
+det adj n vd pro n n p np p n n , p det adj n p det n n . 
+np v vn to v det n , wh v adv vn p n n p det n p det np . 
+adv , adv , det det adj np vd to v vg n cnj adv cnj det adj n . 
+cnj np adv vn n p n adv det adj p pro vg n . 
+pro v adv * to v det p det n p pro n p det n . 
+v p pro '' . 
+cnj np vd pro to v adv cnj pro mod v pro det adj n p n . 
+det n p det n n vd pro p det n p det n . 
+np vd det n p det n . 
+pro vd pro vd n cnj pro vd pro n . . 
+p num , np n mod v det n vn `` fw fw fw fw fw fw fw np '' p det n , `` np fw fw fw fw fw n p fw fw fw fw fw fw fw fw fw fw fw . 
+pro mod v cnj det n v vn adj n . 
+cnj np np v vn : `` det adj n p det num n vd det p det adj n . 
+p adj n , adv , det n p n vbz to v vg p adj adj adj n . 
+adj n n np np mod v det n p det n . 
+pro v num n to v n p det n . . 
+p det vn n num vn p pro . 
+np vd adv . . 
+p np det num adj n p det n v np np , wh n p adj n v to v vn p n p det adj n . 
+to v det v to v adv det n p n . 
+pro v det n n p n cnj n . 
+det n p adj n vd p det adj cnj adj n . 
+n vbz det det n . 
+p det n p n p det adj n det n p n p adj n vd p det n p det adj . 
+det n v det adj n p det adj n . 
+det n p wh det n vd p n n det adv vd p det n p n cnj n . 
+det n p det n p np p np vbz adv p det n p det adj n . 
+np vd det n p det adj n . 
+det n p np vd det adj np p n cnj det adj n p pro n , adj num num n det n p n cnj n . 
+det n vd p np num , num , cnj np mod v p np p det n p np np np , n p det n , p vg p det n cnj n . 
+p pro num n det adj np vd pro n `` to v det adj n cnj pro mod v vn p n . 
+np vd : `` pro v pro v det adj n cnj vd pro p np np , cnj pro v mod v pro p det n p det n '' . 
+pro vd adv cnj `` pro vd np np det n p n cnj det n p n cnj det n pro vd to v pro n p n n '' . 
+pro vd p det n p det n n p det adj n cnj pro n wh vd adv to v np . 
+cnj pro adv vd p det p det n p det n . 
+adv cnj adv cnj adv pro v vn det n p pro n . 
+p det adv , cnj det n v , pro v p num p num n . 
+pro n p n cnj n p det adj n v adj , cnj adj . 
+det n p n p det n vd pro cnj det det n det n n p wh to v det n cnj n p pro n . 
+cnj pro wh mod v det n p det n p n num , p pro adj n vbz wh n mod v vn adv p pro p n p det n p n . 
+pro mod v p det n cnj pro v adv adj . 
+num n pro v vn p det n p adj n wh vd to v pro n . 
+cnj np np vd p num . . 
+det n mod * v det n p det adj n p np , cnj adv wh det n n p n p n . 
+det det adj n p adj n mod v p det n cnj n p det np . 
+adv vn p pro n p pro n v np vn n p pro n . 
+det det adj n p adj adj n , adv p det adj n , v pro n . 
+p det adj n v cnj cnj pro mod v adv p v vn p det n , pro v det adj , to v adv cnj pro v `` v pro , cnj det adv . 
+n v det n p adv . 
+wh v wh det adj n p n vbz adv , cnj pro n v adv adj p det n p adj n wh mod v pro v vn p n , n p n , p vg . 
+pro vd pro wh v vn p pro . 
+det n p det np vd pro . 
+adj adj n p adj , n cnj n , n . . 
+p adj . 
+( np ) det n to v det n p n . 
+pro mod , adv , v vn p n n n . 
+to v pro v to v pro . 
+det p det n v det adj cnj pro mod v vn adv p pro . 
+pro v p np cnj pro mod v vn p pro p det n to v p det v det n det vn n cnj det adj n mod adv v to v . 
+n p adj np np np p . 
+n p n n v vn adv p det n n . 
+n n p det n . 
+n n . 
+cnj det n det n p det n p adj cnj vn n v vn adj n p det n wh mod * v v vn p adj n . 
+det n v * adj p np n , cnj v vn cnj adj p det n . 
+num n vd det n . 
+det n vd cnj vn pro p adj n n , vg det adj n cnj vg det n p n . . 
+n p n , n cnj n n , n p adj n , cnj det n p n p adj n . 
+adv , det n mod v vn p n p pro cnj adj n p n . 
+adj n p det . 
+det mod v vn p det vg p n . 
+num n v adv adj . 
+det vg num n v adj n wh v adv p np num . 
+pro v det adj n . 
+det n p num vd det n p det np np `` np '' p np , np , p n . 
+det det adj n p det n v vn fw fw fw fw fw ( num ) . 
+pro adv vd p np vd p n cnj n . 
+( det . 
+det adj n p n p n n n -- ( det . 
+( det . 
+det n `` n '' vbz n p det n cnj det n p adv , cnj p n p det det n cnj p det n p adv . 
+( det . 
+n p n . . 
+cnj n n p n . 
+adj n . 
+adj cnj det n n vn p det adj n n , v vn p n p n adj n n p n . 
+adv cnj n . . 
+num n n n v vn p det n p np cnj num n v vn p det np n , np , n p det adj n n . 
+vn n adj n . 
+det np num n vd det n p det n vn , `` det adj n vbz '' . 
+det det n vbz det n p adj n n , cnj mod v vn cnj det n p det n n . 
+adj n p det n v v vn p n p det n p det num n . 
+det n p det n mod v vn cnj n . 
+( det . 
+( det . 
+pro adj n v p pro n , np np np cnj np np np , wh mod v vn adv to v det adj n p det adj np n . 
+adj n v det adj adj n p adj n cnj p det n p adj n mod v num adj n n , det vn p det n n p det n p p num n cnj det n . 
+n , v det n . 
+n p n p adj n mod adv v vn cnj n . 
+n det n n n . 
+det det n n v vn p n p p det n . 
+n v det n . 
+det n mod v adj . 
+pro n mod v vn p det n p n . 
+det n mod v p det num n n . 
+adj n n mod v vn p det n p n p det n p n p wh v vn det n p n . 
+cnj det n mod v det adj p det n cnj num n mod v det adj . 
+det adj n v adj . 
+adv , cnj det n cnj adj mod v vn p det n to v n n p det n . 
+det adj n v det n n det vn p n cnj adj p n . 
+det n v vn cnj cnj * adj n cnj n , cnj det adj n p n , v vn cnj v vn . 
+det n p det n v adj cnj adj n v vn cnj p det n . 
+adj n n p vn n , num np np num , np '' . 
+det n p vn n mod v det n p det n det adv cnj mod n p n cnj n p det adj . 
+det adj n vn p np np n p n p adj n n mod v adj cnj adj n p det n p np np n cnj n . 
+np np np v vn p np num , num . 
+np np np vd det n cnj vd det adj p n . 
+n v vn adj cnj vn p num n n . 
+num np np n . 
+cnj pro v `` vg det n p num n det n p adj n adv '' , p n p num p num n p det adj n , cnj cnj pro vd n p det n . 
+p pro n p det n n , det n n vd cnj det n v adj adv p det n cnj n . 
+cnj det n p det adj n vg det n p n v p pro n . 
+n p vn n , np np num '' . 
+cnj v pro v adv wh adj n det adj n p n n mod v . 
+pro v adv adj cnj cnj det n cnj det n n n v vn p det n n . 
+pro vbz p pro cnj det det n vbz p det n p det n n n cnj n p det n . 
+ex pro vd `` cnj det adj n p n , p det adj n n , vbz ( adj n ) p det n cnj det n n mod v vn p pro n '' . 
+n p det adj n v adj det p det n . 
+pro vbz cnj pro mod v det n pro n , cnj pro vbz cnj pro mod adv v pro p pro . 
+pro vbz cnj pro v vg p n p n p det n wh mod v vn cnj adv p det adj n . 
+p det n n p det n mod adv v vn det n p adj n . 
+p det np p det vn n . 
+det n v vn to v p p num num n p n . 
+det adj n adv v det adv adj n p det n cnj pro adj n , cnj p det det adj n n . 
+pro mod v adv vn to v adj n p det adj n cnj n . 
+adj n n . 
+adv , det n p n n mod v vn adv p num vg det n p n . 
+p det n pro mod v p det det adj n to v det n p det n cnj det n n . 
+np np np n . 
+pro v vn cnj : ( det . 
+det n p det . 
+det n vn n mod v adv vn p det n p adj n . 
+det n p det n mod adv v cnj det n p n p det n p n . 
+det n cnj n n mod v vn n p adj n n . 
+det n p n cnj adj n n vbz pro p det n cnj pro v p det n cnj det n mod v vn p pro vg n vn n . 
+vn n . 
+det n v vn p adj n to v vn adj n . 
+pro adv v n p det n p adj n n n p adj n n n p vg vn adj n . 
+pro vd n p pro n . 
+pro vbz , adv , n p vg to v wh det n p det n vd . . 
+np np np np , det num n p n v det n to v vn p , vd pro adj adj n , cnj `` det n p n v p n p n '' . 
+adj n v adv , cnj n p n p det adj n adv adj , cnj vn to v cnj n p n p num , vn p det det n p n . 
+det adj n vbz adv det n p n cnj n cnj n adj n p n adv p num n p n . 
+n . 
+pro mod v vn p n p det adj n p np n , det adj n , wh mod v pro p det n p n . 
+adj n n v v vn p n p n . 
+n . 
+det adj n v num p num n det . . 
+det n n p n v vn det n n p num adv p det n . 
+p n p vn n p n n . . 
+det n p np np np p det n p adj n p det n n n n n v vn adv p np p np np np , n p n n n n . 
+det n v vn p n p det adj n cnj vn p det num n , cnj n . 
+pro v vn p det n n n p n n cnj n . 
+det n n p det n n v vn p p n wh n v det n p det num n p det n n cnj n vn adv p n ( num ) . 
+p det adj n pro v vn det n p n ( vn p p det det n ) p det adj n . 
+) det v , p n , det adj n p n p det vn p n n . 
+adv , ex v n p vn n p det n ( n p num ) vn p n n p num n p det n p np cnj n . 
+n p det n p det n v n p det adj n p n p n . 
+pro n v n p det adj n . 
+n v adj , cnj n adj adj cnj adv cnj adj adj n n p n n . 
+ex v adj n p det n cnj det n n p n v adj . 
+ex v n , cnj det adj cnj p n , cnj det n n p n to v adj . 
+pro vbz det n vbz det n n p det n n p n . 
+np vd n to v adj , det n n , p n , n . 
+n . 
+np vd n n n cnj n to v adv p n . 
+n vd det n p n wh pro vd adv . 
+det vn n n p n vg p n cnj n v vn . 
+n adj n p det n n vd pro to v vn p det adj n p n p n . 
+n v vn p det n n p num p n . 
+det det n vbz p det adj n n p p n . 
+( num ) p det adj n n , n cnj det n v adj . 
+( num ) p n , det n v to v adv adj n p wh det adj n v adv adv cnj det adj n ( det adj n ) v adv p det adj adj n . 
+. 
+adv , det adj n , adv , det adj n , mod v adv det n n p det n cnj v det adj n p n , p det adj n p det det np n cnj det n p det adj n p det adj n . 
+det n mod v n p det n p n p det n . 
+p np num , det det adj n vd p n p n p n cnj n . . 
+det n n p p n vbz p det adj n p n n . 
+p wh n det adj n vbz p n v adj . 
+pro v adj cnj det adj n mod v vn adj cnj det adj n . 
+det p det wh v det n p n v vn cnj det det n mod v p det n p n . 
+det v det adj n wh v n p n . 
+num n p det n v vn p num n p det n n p n n cnj n np adj n p det adj n n n . 
+adj cnj det n n , n cnj adj cnj det n n v vn to v det n . . 
+det n cnj n n v vn cnj vn p det n n p det det n v vn p num n p n p n . 
+det det n p det v adj n wh v vn n . 
+det n v det n . 
+adv vn p det n v det n cnj det n . 
+pro mod v adj p det adj n p n . 
+det n `` det n '' vbz cnj pro v to v p pro p det adj n . 
+det n v cnj det n v det adj n wh v adj . . 
+np np v num cnj vn p det n p num n num n p num n , cnj np np np vbz det n p p det p num n p det num p p num n . 
+adv , cnj det n n , pro v adj p n . 
+pro v adj cnj det vn cnj adj n v p n wh det adj n v vn . 
+np ( num ) , np ( num ) , np , n cnj np ( num ) , np np ( num ) , cnj np ( num ) v det vd pro adj cnj det adj n p det adj n . 
+np ( num . . 
+det n p n n cnj n n p n p det adj adj n v v vn p n p n p det n p n . 
+np , np , np , np , np , cnj np np , num ) . 
+cnj det n vbz adv det , pro v adj to v cnj det n n mod v det n n p det n . 
+p det det det n , det n p adj cnj det adj n p det n p det n v vn p det n ( np cnj n , num . . 
+det n p det vn n p n n p num cnj det n cnj vg p det n cnj adj n p adj n v vn pro adj to v n vn p adj n p det n . 
+p det det n , det n mod v vn p n vn p det n p det n n . 
+pro v adv vn p num , cnj det adj n n p det n vd `` vn n p n '' adj p n . 
+adj n p det n vd adv , adj n n , cnj n . 
+n vd , cnj n . 
+det n p det n v num n p n p n . 
+adj n p adj n p pro v vn . 
+det n p det adj n p det adj n v vn p adj n n p det num n n . 
+adv , ex v vn n cnj n p det adj n . 
+p n p det adj n vn adv , det n p n n v vn , adv vg p n wh v det adj cnj adj cnj wh vd adj n cnj n . 
+n p det . 
+p n p det n , vg det n p adj n n p det det n p vg n v * v adj n . 
+det n p vg p n n p n cnj n cnj * p n cnj n cnj p n p n p n cnj n , cnj det n p adj n p n n n n p n , v cnj det n p n v v vn . 
+det n v det n vn n * adv vn p adj n ( np , num . . 
+cnj pro v adv p det adj n , pro mod v det n p det n p det n p adj n v n p n . 
+pro vd adv cnj n v det vn ( vn ) n cnj v det n p adj cnj adj n cnj vd , adv , cnj det adj n wh v det n v adj cnj adj . 
+vg . 
+pro vbz cnj det vbz cnj det adj n p n v n num adv . 
+v n v det adj n p np , n , wh det n , v adj n adj n p np cnj det n v adj n . 
+adv ( np ) n . . 
+( np ) cnj n v det n vn p n p np , adv det adj n p n v n . 
+det n n mod v det n p n cnj num p det det n . 
+adv ex v n n adj cnj n . 
+cnj n cnj n vbz n p n , pro v n . 
+pro v to v cnj det n p n v adv det n n . 
+cnj adv pro v adj cnj n , adv , cnj n v p det n p n . 
+pro v adv adj cnj det adj n v adj p n . 
+det n cnj det adj n p n vbz n . 
+adv n . 
+pro v adv vn cnj n vbz np . 
+v pro vd n . 
+det n mod v adj det p n p adv adv cnj pro vbz det n cnj p adj cnj n . 
+pro v det n v adj cnj ex v det adj n n adj cnj n . 
+adv v cnj pro adv v n wh n v adj , n v adj , cnj n . 
+cnj , vg det n cnj n cnj n v n cnj adv wh np v det adj det n p det n p n mod v num . 
+p det n , pro vbz cnj det n p adj n p n n p det adv vn n v adv vn p det n p adj n . 
+adv n . 
+pro adv v n wh n v adj adj n . 
+adv n cnj cnj adv cnj n . 
+cnj n v det adj n cnj det adj n v det n , det n n n , v det n p det n p n . 
+det n v n n p vg det n . . 
+det adj adj n vbz det n n p n n cnj , det adv n . 
+cnj np vbz pro v det num adj n n p det n , n cnj n , adj p n cnj n adv . 
+det n p np , cnj det n , mod v det adj n p adj adj n p det adj n . 
+cnj det n v p n , cnj cnj det n p np v p det n cnj pro vbz p det n p vg n , adv det adj n mod v vn p det n vn p vg n adv p n p det n . 
+pro v det num adj n n cnj n , mod v p det p det adj n p n . . 
+pro mod v p det n p n cnj n cnj det n cnj p det n p det n cnj det n . 
+p det n det n p det adj n v n . 
+p det n pro v det n p adj n n np , n p det n p n cnj adj cnj det n cnj n v adj n p n . 
+adv , to v n , pro vbz det n p n cnj n p n . 
+adv , n v vn p n . 
+det n mod v p vn n cnj vn n . 
+det adj n n p det n vbz wh np cnj n v adj p num det . 
+ex v num n : ( np ) n vbz adj p n cnj pro v vn . . 
+det det n v p det n p det det n p n . 
+det v adj p det n wh v det det vn n . 
+pro adv v det vn n n p n cnj det adj n n p n p n . 
+det n v adv det adj n p n . 
+det n n v det adj n p n p det adj n n wh v n vg p det p n . 
+pro adv v det n , cnj vbz : vn det n p n adj cnj det v num n p n cnj n p np , pro v det adj n p adj adj n p np cnj det adj n n . 
+adv p n vn p n , pro v wh det n n vbz n , cnj v p det n p np adj cnj n . 
+det n p det n p n p det p num n v adv adv v vn adj . 
+v n v det adj adj n vg det n cnj n , cnj v n v det n n p n n p n . 
+p det n v n cnj n v , adv , det adj n p n cnj n p n p det num n p wh det adj n vbz n . 
+p adj , n p np v vn p n p n . 
+det n , np , v det ( num , num ) n p n , vbz det n p det n p n , wh pro v adv vn to v det n n p n , p n n . 
+p det vg n , pro v adj cnj det det n v vn p pro p det adj n . 
+adv pro vbz cnj det n p det n mod v det n np np n p n n cnj det adj n mod v det adj n p n cnj n cnj n . 
+det num vbz cnj ex v det n p n wh vbz n p n n . 
+adv v det adj n , np , vg n p num n , n cnj n . 
+num . . 
+cnj ex v adj n cnj p det adj n p n . 
+adv , pro vbz n p det adj n , cnj n , n , cnj n p n . 
+det n , adv adj p det n p n p det n vd adj n , v det adj n cnj det adj n mod v det num n , wh n v * v vn . 
+cnj n p np n v vn p n n '' . 
+p det n cnj adj n vbz p det n p det n n p adj n , p det n pro vbz adv p vn n '' . 
+det n p det n v vn p num cnj num . 
+det n v * adv vn p n p n p adj n . 
+cnj det n v n p adj n . 
+det vn det adj n p n n cnj n . 
+n p n p . 
+n v vn p n p det adj n . 
+. 
+adv vn p n , pro v adj p det n wh vd n , vg pro p det adj det n . 
+det n vd cnj vbz : n . 
+det n n cnj det n p n vn to v det n v vn p n . . 
+wh det n vbz , det n n mod v n wh v vn p n . 
+det n n v vn p det n n . 
+cnj n vbz p det n n wh v adj p det n vn p n , adv cnj n v * v n , det n p n n v vn p n p vg det n p det det adj n p det n , n , p n . 
+det n v adj p det n p det n pro v . 
+det adj n vbz n cnj det n v vn . 
+wh det n p wh adj adv . . 
+cnj det n p wh v det n . . 
+n . 
+n p det n v adj cnj n cnj n cnj n . 
+adv , pro p det n vbz det adv p n n . 
+det n v to v det adj n p n p det n p n . 
+pro vbz p pro cnj pro adv adv mod . 
+np np np vbz p det adj n p np . 
+cnj det n mod v adj p det adj n adj p det np n . 
+n . . 
+wh , vn p n vbz det n p num n adv . 
+num p num ) . 
+cnj wh det n . . 
+cnj pro v vg det adj cnj det det n v det n . 
+det adj n p vg det num n v adv vg p np n . 
+det adj n vn adj n , cnj ex v det n cnj det adj n p det adj n vd p det n . 
+det n p adj n p pro vbz * adv p n n , cnj p n p adj n wh mod v v det adj n p n p vg p det adj n . 
+det np np ( fw fw fw fw , fw fw fw ) v vn p n p det adj np ( det adj fw n n ) p det det adj n . 
+n v to v n p adj n adv cnj det p , cnj det n p adj n v to v p n vn p pro n . 
+adv , p det n vn p n p n , det n p det n n mod v adj n p n wh v pro det n p adj n n . 
+adj n n v adv vn adv cnj adj p adj n . 
+det mod v n p adj adj , adj cnj n n . 
+pro v det adj n . 
+ex mod v det n p vg det . 
+det . 
+p det n , adv , ex v n cnj vn n p n n mod * v p det adj n to v det adj n p adj n . 
+adj adj . 
+n n p n v det n p det n p n -- det det n v v vn wh vbz p det n . 
+det adj n mod v vn det adv , cnj adj n v * v adj n adv . 
+adj n cnj n p n n v adv det det wh det n v p det n p n p n cnj wh det n v p det n p n p n . 
+n . 
+p det adj n det vn n p det n . 
+pro vd pro . . 
+to v det n p n v det adj n p det vg n , cnj det n vn cnj adj n -- adj n cnj n -- v vn cnj adv cnj adv cnj adj . . 
+pro v * adj cnj det adj n p n v adv vn p n p n . 
+n to v v det . 
+p np adj n n p adj n n , det n v vn to v n p det `` uh '' n n . 
+to v pro adv , n cnj adj n v adj n p n p det n p adj n . 
+np np np vd det n p adj n p det adj n . 
+pro v * vn cnj n num mod v det n p det p det n n n . 
+n . 
+n num p det vn n n v v vn cnj * vg p n p det n vn p adj n . 
+det n n p det . 
+n p n . 
+det det n mod v vn p : num . 
+det n cnj n n mod * v v vn p det adj n . 
+n v vn p det n p det adj n . 
+adv , wh n n v , pro n v adv p n . 
+p det n p num cnj num n , n cnj n p n n v adj . . 
+n p n adv . 
+det adj n p n , det n cnj adj p `` adj n p det adj n '' , mod v p det n p adj np n n p np n cnj , adv , det adj n p det n cnj pro mod v det np p vg p det n . 
+n to v adj n adv . 
+num n adv det adj n p det adj n p num v det n p det n . 
+adv det n v vn , adv to v adj cnj adj n cnj adv to v p det n `` adv vn '' n p adj n . 
+cnj det vg n p n vn p det vn n p n p det vg n vn p det n v vn cnj det `` n '' vd p det n n vn p det det n . 
+p n , adv , det n v * det adj . 
+num p num ) cnj n ( num . . 
+( v adv , num . . 
+( v vn cnj n , num . . 
+det n v det n p adj n mod v vn p n vg adj n . 
+p adj n pro v vn p det n p n cnj n . 
+pro v v vn p np np n cnj pro vd adv adv cnj pro mod v vn adv . 
+cnj v cnj det n v adv adv vn cnj det n p wh pro vd det n p det num n v vn . 
+det vn p n p det adj n cnj det adv p det adj n p det n adv . 
+det n v , adv , cnj det n p det n p n v adv adv p det adj n p det n n cnj adv p det n wh det n v vn p det n p n . 
+cnj cnj pro mod v det , pro mod adv v n p pro adj n num cnj num . . 
+det adj n wh v vn p num vd p det wh vbz det adv p pro n p num . 
+det adj n , wh vbz wh v to v adv , v adj to v adv det n p n wh v adj p det num n . 
+det n p np n cnj p det np v p det adj n . 
+pro v v to v p det adj n cnj v * vn to v n p n . 
+p det n p det n v det adj n , num cnj num n adj , vn p v n cnj det n . 
+vg pro adj , np vd np n cnj vd p det n p n to v det n cnj n v to v det n . 
+n n cnj n , adv adj p det n p num , vd det n n n n p det adj n . 
+pro v vn cnj det n mod v pro cnj pro mod v adv , cnj pro vd cnj vd cnj pro mod v det n vg p det n . 
+vg det n , pro vd det n . 
+adv det det n , det np vd np cnj np np , num p det n n , v vn p num np p pro n n p det adj np . 
+np np v n cnj n . . 
+np np , wh vd p num , v det n p num n adj n . 
+n vbz det det adj n p n n n cnj pro v adj to v det n wh n v * adj p adj n . 
+p det n det n v adj . . 
+cnj pro v adv cnj adv vn adj cnj adj n vbz det adj n n p det adj n . 
+p n p det adj n , np vbz cnj det n p n v adj cnj to v p adj n to v det n p adj n v to v p det adj n p adj n p det n . 
+cnj to v cnj p det n p n pro v adj v * adv to v cnj pro v adj . . 
+det np adj n vd cnj ex v adv adj n p det n p wh det n v v vn cnj cnj det det n vn p det n mod v det n . 
+det n p det np adj n , adv , vd cnj pro v adv vn cnj `` adj np '' v det adj n . 
+p pro n p det adj n , det np adj n vd cnj det n p np np vd det n adj . 
+det np adj n , adv , vd cnj np n , n , cnj n `` p det adj n mod v det n det n . . 
+pro vd cnj det n cnj n p det det n v det n wh v to v vn p det n p n p det n p adj n . 
+det adj n adv vn adv vn n p det n p det n cnj v adj p det adj n . 
+cnj det n v p n to v vn adv p pro vg , cnj p n p det n p det n . 
+adv , det n p n cnj n mod v adv . 
+det n mod v adj . 
+pro mod adv v det adj , cnj np np n p det adj n p n . 
+v det n wh v to v vn adv cnj pro vd adv . 
+det adj n n , vn p n , vd det n p det n p num . 
+wh v , pro vd adj n adv , vg adj n p adj n adj . 
+pro v vn to v cnj p wh det adj n v adv , vn p pro n to v . 
+adj n v vn p p adv . 
+pro v adv vn p ex v det n p det vg . 
+pro mod v n p det det adj n p det det adj n . 
+det n n p det vn n vd det n cnj det v det n adj p np np np n . 
+pro vd p vg det n wh pro vd cnj pro n mod adv v adv adv cnj adv . 
+pro mod v adj to v det n p pro . 
+n p det n : n , np , np , np , np , np , np , np , np , np , np , np np np , np , np , cnj n . 
+pro mod v pro v det det n adv p * vg p pro det adv cnj vg adv wh pro vbz to v . 
+adv adv , det n p det n vbz cnj det n vbz adv p n . 
+adv pro v v vn , adv , det adj n v vn to v pro n , det adj n p adj n vg det det adj n . 
+det n v adj , cnj det adj n n v det adj n . 
+adj n v p n cnj n , wh mod v p n adv wh pro v p det n . 
+det n p det n p pro v det adj n . 
+pro v det n cnj det n v v vn . . 
+pro mod v cnj p det adj n p det n , det n p n cnj n mod v vn , det n vn n . 
+np adv vd cnj det n v det adj cnj adj . . 
+pro v * v cnj det v adj p pro adv adj p pro n p pro adj n . 
+n p adj n , pro v * adj adj n . 
+pro adj n v det n p adj n p det n . 
+adv adv wh v vn v det adj n p det n , det n p n . 
+det adj n v n , wh vd p vg n p det n . 
+cnj pro v vn . . 
+adv , pro mod v det n p det n , p np , pro n p np n p det adj cnj adj n -- pro adj n , p det n p np np , cnj pro adj n p np v det n cnj pro v adj . 
+) p det n p np p pro n . 
+( det n v * v p adj n . 
+p n p n vn p det n cnj pro n , det n n v det n cnj det n p n n n . 
+pro vd cnj det adj n , vn n mod v num p num p n n n . 
+det v adj p num n p det adj n . 
+det n p det n n vd det n to v adv cnj v n n cnj adv cnj det vg p det adj n . 
+det vn n p det n vd det n n cnj vn det n n n . 
+pro mod v n p det n p det vn n . 
+det vn n mod v cnj det n p n cnj , cnj adj n v vn , mod v adj n . 
+adj adj n mod v adj n , adv v n n , cnj v det n . 
+det n n n mod v n p adj n p det adj n p adj n p det n p n . 
+num n ( num , cnj num ) ) p det n ( n ) wh v det n p det n p n p det n v vn p n . 
+det n n v v vn to v n n p n p n cnj n . 
+( np np np , np np np , np np np ) det n p vn adj . 
+pro v vn cnj np n v det det n ( num np ) cnj det adj ( adv p det n ) cnj det n . 
+( np np np , np np np , np np np , np np np , np np np ) n . 
+( np np np , np np n . 
+det n vg n cnj det adv vn n p pro v v vn p det n . 
+( np np np , np np np np ) n n p adj . 
+( np np np np , np np np ) adj . 
+det adj n p det n p det adj n p adj adj n v v vn . 
+det n v to v det n p det adj n p adj n p n . 
+det n vn vbz p det p det fw fw fw fw fw . 
+adj n v vn p n num p num , adj n p n num p num . 
+ex v det adj n p det n p det n n . 
+pro vbz det n p vg n p vn n n cnj adv cnj det adj n n p n . 
+p det adj n n , det np np np n , det n , cnj adj n v det adj n adj p adj n . 
+n v det n n p det n n . . 
+n v det adj adj n vg p det n n . . 
+det n p det n n vbz cnj det n n n cnj det n n n v det n n n p det n n n cnj n . 
+pro v adj to v det n cnj n p n adv . 
+det vn n , np , p vg n p n p pro n adv mod v vn to v det n p det n vn to v det n , n , cnj adj p det n p det n , n , cnj det adj p det n p det n p det n cnj det n , n , cnj n . 
+det n wh v vn to v adv p det n p det adj n cnj adv v to v det n . 
+num n p . 
+adj n cnj n n . 
+vg v vn p num n cnj p det n p n adj to v num n cnj vbz p det n n . 
+p det n det n v vn adv cnj det n n n mod v adv p det n n cnj det adj n v v vn p det num n p det n n . 
+det n v adj wh det det n v vn adv p det n n . 
+n n -- adj n n p det vg n . 
+n vg n -- det n ( np cnj np ) . 
+n wh v adv vn p pro adj n adv p adj vg mod v adj adj n n wh v p det n . 
+adv v n p num p n nil nil nil nil nil vbz det n p det n p n n . . 
+adv v p det n p n n p n p num p n nil nil nil nil nil . 
+adv , det adj n n vbz det adj n . 
+adv , adj n , adj p det n , v * v vn p det n . 
+det adj n p det adj n n mod v vn to v det adj n n vg p det adj n cnj vg n . 
+adj n p n . 
+p n p n cnj n p n n , cnj vg n , pro v n n . 
+adv , det n n p det n n n v n . 
+det adj n v p num n , adv , n cnj n . 
+n p n vn n . 
+det vg n vn p n cnj np n v vn . . 
+det vg n ( num ) vbz det ( adj ) n n vn p p n ( num ) p n . 
+det n p det adj n p wh det n v vn . 
+np ( num ) v vn p det vg n . 
+det n vbz det n n p pro n p det n n p det n wh vbz p det vg n n . 
+adv n . 
+wh pro v adj to v adj pro v cnj det adj n v det adj n n p n p det n n n . 
+adv n wh det n v p det adj n n , cnj n v vn p n p ( num ) . 
+det n n vbz cnj det adj n cnj n v adv adv p det n . 
+det n vbz det adj n to v p det n n , cnj det n p n . 
+det n n v vn p n cnj vn p det n n p n n n . 
+pro mod v vn p n num cnj det n vbz p det n n . 
+p n , det n vg n vbz n p det n vn p det n . 
+det n v vn adv cnj pro v v adj p n n p det adj n n . 
+n n . 
+cnj det n v * det adj p det n , det n mod v vn p det n to v pro adv p det n . 
+adj n . 
+np vd det n cnj det adj n p pro p det n p n . 
+np v adj to v . 
+np np , p det pro vg cnj pro adj n , v det adj p pro n , n adv p det adj n , vg to v np n . 
+cnj adv : `` ex v n p n p adv '' . 
+pro n vd det adj . 
+np vd np . 
+pro vd p pro adv , adv adv vd det n p pro adv . 
+`` pro v v to v det adv '' . 
+det n vd n p det adj n . 
+ex det n vd , vg p det . 
+p det adj n p n p pro adj n vd num n p adj n . 
+adv pro v vn wh pro mod v v vn , cnj n v det adj n . 
+n to v adj . 
+cnj pro vd det n . 
+det vn , vn n p det n vd adj n . 
+vg p det n p det n n , np vd adv . 
+det n cnj pro n v vn to v pro cnj pro adj n vn p det n p det n n . 
+n vd to v p det vg n . . 
+adv , det vg n n p pro n vd p det n , vg det adj n p det adj n . 
+wh v det n cnj np v vn np p det n p n . 
+det adj n v adv cnj pro v det n . 
+np np vbz cnj det n mod v det vn n n p n wh mod v pro p n p n cnj det adj n cnj det n . 
+pro v adv . 
+det v wh pro vd det det adj n . 
+pro adv v v p np cnj pro adj mod v p pro . 
+adv v n cnj n . 
+det n p adj n , adv n , vd adv p det n . 
+np vd adv pro n cnj pro mod v p det n , cnj wh pro vd det p det n pro vd pro . 
+np vd p pro . 
+adv v adv , cnj ex v det n n . 
+pro vd p pro p det vg n . 
+cnj p np v vn p np np cnj p n , pro v adv vn . 
+np vd p np n cnj vd det n p np . 
+det num mod v det det n . 
+cnj det n p n , det n v vn det adj . 
+np mod v adv adv . 
+pro vd det n . 
+ex v det n adv , p det n . 
+det adj n vd pro . 
+pro vd adv cnj adv . 
+np v vn pro n . 
+det n p det adj n vd pro adv cnj det n p n . 
+p det n , det n vd pro n cnj , det num n , vd pro . 
+p det n , n cnj n vd p n . 
+pro n vd p det n p np n . . 
+adv , det n adj n mod v . 
+pro vd pro cnj pro mod adv v wh np vd . 
+np vd . 
+det n v vn p det adj n . 
+mod np adv v . . 
+v pro n p pro cnj v , np , v . . 
+np v vn cnj pro p det n v vn det n . 
+np v cnj pro vd . 
+np vd n p n n , cnj v vn p np np , det n n . 
+det n vd det det adv adv , pro vd . 
+wh v det n adv p adj . 
+v det n adv . 
+det n vd to v p pro n . 
+pro vd p n p wh mod v p det n wh pro vd pro . 
+vn , adj n p det adj n . 
+pro v v vg . 
+wh v det adj n v pro adv . . 
+cnj det n vn p det n pro vd p det wh v vg det adj p pro n . 
+v det n p det n , adj n , num n , cnj adj . 
+det det adj n n . 
+v uh det n . 
+ex v det n p det n det n p n . 
+p np n . . 
+wh det n v pro adv p adv . . 
+np vd . 
+np v det adj cnj np v adv vn cnj pro mod v pro n , adv . 
+pro vbz p det n pro . 
+cnj adv num n , cnj p det n n p det n n p det vn adj n , np vd det n p det det adj n pro v vn , p wh pro vd det adj n . 
+`` v det det adj n adv '' , pro vd pro . 
+adv . 
+cnj adv . 
+det n , n p det adj , v adv vn p pro . 
+det det n v vn adv p adj n wh , cnj n cnj det num n , ex vd det det np p n p adj n n cnj np v to v vg p np to v pro cnj det n v vn det n p det n n , cnj cnj pro v adv vg cnj det n v vn adv p det adj n n p n . 
+wh v * det n v p pro cnj pro v vn p pro n , cnj cnj pro v vn pro p det n p n cnj n . . 
+pro v vn n v p n p det adj n , cnj cnj adv vbz cnj det n p n v p n p wh pro v det adj . 
+pro mod v vn adv cnj vd adv cnj vn p pro , cnj n np vd pro n p pro adj n cnj adv vd pro adv p adv . . 
+np np vd . 
+`` v * v p det np . 
+np v vn num n adv , p adj np , p v vn p det n . 
+`` wh adv , pro n . . 
+np np n mod v det n , p pro vd to v adv cnj det n mod v pro p `` cnj np '' . 
+det n vd p det vg adj n cnj adj n . 
+`` wh v pro n p det '' . . 
+det np np vd . 
+pro vd pro n . 
+det n v vn p det n cnj p n p det n vd det adj v p wh det n p n v v vn . 
+np vd det num . 
+pro vd adv adv . 
+pro v vn adv . 
+pro vd adv p det n . 
+`` v adv '' . . 
+det n v det adj n p det n , cnj cnj pro v * vn p det . 
+det num v adj to v p det det . 
+np vd pro . 
+pro vd pro cnj pro v * v cnj v to v vn . 
+pro v vn p n cnj n n . 
+pro vd cnj pro v det n wh det n v . 
+np np , det adj cnj det adj . 
+num p det adj n v det adj cnj pro vd adv det n p n cnj n , wh vd to v vn p np cnj det n . 
+det n vd adv p pro cnj pro v vg p det n . 
+vn p pro . 
+adv , pro vd adv p det n p pro n . 
+pro vd adv p np , v vn det adj vg p det n p pro n . 
+pro n v adj . 
+pro mod v cnj det adj n cnj n cnj n '' . 
+adv pro cnj np vd det n , vg pro p n . 
+pro vd p det n wh np vd pro to v , cnj np vd pro det n p n to v p pro n , vd pro p det n to v adv pro n . 
+`` pro det adj . 
+pro v vn p pro n p det n vg pro n p n , wh det v p n vd p pro n cnj vn pro p pro n . 
+pro v pro . 
+det adj n p det n v vn adv p det n . 
+np , pro n , pro vd to v det n '' . 
+p det n n cnj n , det n cnj n -- n -- vd p det vg adj n n cnj det adj n p n , n n . 
+det n n p np np v v vn p np np . 
+pro vd pro adj n . 
+det adj n p n vd pro adj adv p pro n . 
+det n np np mod v adv adv . . 
+pro v adj cnj pro v adv vn det n . 
+det n mod v . . 
+det n mod v vn p det n p n p det adj n det n . 
+v pro vd det n det adj . . 
+pro vd pro n adv . 
+np vd det adj n . 
+`` pro n '' . . 
+pro vd pro wh pro adv vd adv . 
+pro vd to v det n cnj v cnj adv pro v pro n p n . 
+pro v det n cnj np vd . 
+n vd p det n p n p wh pro vd adj adj n . 
+pro vd pro adv p n cnj vd det adj n . 
+pro vd p np p n p n . 
+pro mod v p det '' . 
+pro vd to v . 
+`` np np np v np np np . 
+v det . 
+pro adv vd det det adj n p pro n . 
+pro mod v np p det n . 
+pro vd pro cnj pro vd adv p np cnj det adj n v vn det adj cnj vd pro to v pro n adv p n . 
+pro vd det n vg pro to v adj p vg . 
+adj n pro mod v v det adj adv . 
+`` wh np v vn '' adv . 
+wh pro vd det n np vd det num n n p np n to v p det n . 
+pro mod v to v p vg det n wh vd pro n cnj n pro p det n cnj det adj n , wh pro v vn adv , mod v adj adv . 
+pro mod v det n . 
+det adj n p det adj n vd adj p n . 
+`` wh mod pro v det det n . . 
+det n v vn pro cnj det n mod v vn . 
+pro v vn det n . 
+det adj n vd adv p det n p det adj . 
+det adj adj n vd det n , det n cnj det n p det n n . 
+det num vd p pro . 
+num n vd p pro n p adj n . 
+np vd adv cnj vd det n p pro n . 
+det n n v det adj , adj n . 
+pro adv adv . 
+np vd adv p det adj n n p det n . 
+adv , cnj adv . 
+pro n v v vn p det n . 
+adv pro vd adv cnj pro v cnj vd to v pro adj n . 
+n v vg adv cnj det n vd , p det pro adj n , p n . 
+np np v n , np np v n n p n , np adj v n , cnj np np v det n . 
+pro v adj det to v det adj cnj n p det n p det n , vg cnj pro mod v pro det n . 
+pro vd adv p pro n cnj n , adv p n . 
+pro v det det n p det n cnj pro v adv vn . 
+pro mod v vn n . 
+cnj det n det n v v adj n . 
+pro vd pro det adj adj cnj vd det n . 
+pro adv vd adv p det n cnj pro v to v to v pro . 
+pro v cnj det adj n to v p p det n . 
+n vd p det n . 
+`` adv , n . 
+det n . 
+pro vd p det n p pro n . 
+`` wh pro v . . 
+n vn p n p n '' . 
+det n . 
+* det adv . 
+`` v adv , np '' . 
+v pro n p pro '' . 
+`` v adv . 
+cnj det n v vn . 
+det adj n v v vn p det n , cnj pro n v vn vn . . 
+vg p det adj n p n , np vd . 
+pro vd pro v adj p np . 
+det n det adj n vd p vg p vg n p det n n . 
+pro v vn pro n . 
+`` fw fw fw fw fw fw fw n fw '' . . 
+adv , det n v vd cnj det vd adv . 
+np vn np np adj adj n p det n . 
+`` to v vn adv '' v vn p det n p np np . . 
+`` num n '' . . 
+np vd pro v adv det n p pro n . . 
+det n v num n p pro n v pro . 
+det n cnj det adj adj n v v vg p det n , cnj pro v vn adv p det n adv vg . 
+pro v vn p pro adv adv , p det adj n p pro n , wh vd pro n cnj v adj . 
+p det n det n mod v adv . 
+adv p det n , pro mod v vn pro n n . 
+v det n n adv '' , pro vd adv . 
+pro v adv vn p np np p vg det n , cnj pro v adv vd det n p np np . 
+pro vg to v pro p pro n '' . 
+p det n adv , det n p pro v v det adj p pro p det vn n mod v cnj v pro p adj cnj adj n , mod v pro to v adv p n , vg p n , vg to v p det adj n . 
+np , det n vd det adj n p det n to v det n p vg adv p n p det vg n . 
+`` pro v det n n p pro '' , pro v vn . 
+`` wh v pro v det '' . . 
+`` pro n vd pro . 
+pro adv v det adj '' . 
+pro mod v det : pro adj adj p vg adv p n . 
+`` v pro v to v . . 
+pro vd det . 
+pro vd p pro cnj pro v * adv , cnj det adj cnj adv . 
+pro vd det n p det n cnj n p det n to v det n . 
+pro vd adv p pro . 
+`` uh '' , pro vd p det n , `` pro v pro v cnj pro v det n p det n p det n '' . 
+pro det num pro v vg p p det adj n . 
+pro v v to v det n n adv p det n . 
+pro v vn adv det n vg to v det adj n . 
+n v det adj . 
+p num n p n vg pro vd p det n . 
+p det n pro v adv p det adv , vg det n p num adj n p det adj n . 
+vd pro '' . . 
+adv cnj det n . . 
+pro n vd p det n , det n p pro n . 
+`` pro v det n adv p np n '' . 
+pro vd det n p pro n , vg det n adv . 
+np vd adv , `` v pro adv p np cnj pro v adv cnj v cnj pro vbz vn '' . 
+pro n , adv cnj pro vd num n p n cnj pro vd adj . 
+pro adj , adj n vd np adv , n . 
+det np cnj det n n vd n p det n . 
+ex v det n adv . 
+n n vd det n . 
+np vd adj cnj vd vg p det adj n p det n . 
+det adj n v adj , cnj p n adj n vn p det n cnj vd det adj n . 
+p adv det n pro vd p vg p pro p n . 
+det n vd det n wh pro vd pro . 
+det num n v vg p det n , p det n p det n . 
+pro v adv p det n adv , cnj ex v det n adv to v . 
+pro v pro det n . 
+pro vd pro to v vn adv . 
+`` v adv '' , np np vd adv . 
+det n p det num p det n v det n n . 
+np vd p pro n . 
+np vd det n p det n cnj vd adv . 
+det n vd np n cnj np vd det adj n p det n . 
+np vd pro adj n p det adj n cnj vd pro adv p det n p det n . 
+`` v adv '' , pro vd . 
+pro vd adv , adv , vg det n p det v p det n . 
+np vd adv num n , vg pro to v adv adv . 
+np v det n . 
+pro vd det n p det n , vd pro vd cnj vd pro adv p num n . 
+pro mod v det adj n to v . 
+pro v det adj to v p det . 
+pro vd pro n adv p det n . 
+pro vd adv adv det p det n cnj vd det adj n p det n . 
+p det n pro vd cnj vd det n p n , cnj p det n . 
+`` det det n . 
+`` adv wh p n mod pro v det '' . . 
+pro vd p det adj n p pro n . 
+p det n p det n , pro vd cnj det adj n vd p det n cnj vd adv p det n . 
+det n p adj np . 
+`` wh adv '' . . 
+pro v adv p np cnj v vn adv adv . 
+adv . 
+num det n , cnj det n . . 
+det n p . 
+adv pro v adv det n n p det n . . 
+pro vd pro n p pro '' . 
+`` * cnj ex det n p vg adv det n cnj det n adv . 
+pro v * det adj to v cnj np v vn p n cnj v adv p np p det vn n to v pro . 
+pro vd cnj det vn n vn p pro det n p adj adj n . 
+`` adv det n det n , np np -- pro vn cnj det '' . 
+pro v p det n cnj v pro v pro adv p pro '' . 
+`` * det n det n . 
+np v det n n . 
+np vd , `` v adv , np . 
+`` adv . 
+cnj pro vd det n n det n vd pro . . 
+det n wh v vn cnj v vn , pro v to v p n . 
+pro vd p pro n . 
+det n vd to v pro n adv , adv vd wh np v , wh v vn p pro det n adv . 
+det n pro vd adv to v p pro , np , cnj pro v vn . 
+p det n , np adv v v adv wh v vn . 
+`` p det n . 
+v adv adv . 
+`` det adj '' . . 
+`` det adj '' . 
+`` adv . 
+n p det n n '' . 
+`` det adj . 
+np np vd cnj det n v adv vn `` n n '' p n pro v vn . 
+pro vd np n to v det n p n to v vn p det n n . 
+det n vd adv det n , det n vd det adj to v vn p det n . 
+`` adv . 
+ex det n p vg pro mod v adv '' . 
+`` n p adj n '' , np vd . 
+np vd adv . 
+pro vd det n p pro cnj pro vd p pro vg n . 
+det n v det n p det n . 
+pro n v det n . 
+pro v vn pro . 
+det adj , p n . 
+pro v vn p pro p adj cnj p adj . 
+pro vd p det adj n cnj vd pro cnj vd adv . 
+`` adv . 
+mod v vn n . 
+pro v vn p det n . . 
+v pro adv to v det adj det adj . . 
+pro v vn det n adv , vg det n . 
+pro vd p np np cnj pro v , p det n n , vg det adj det . 
+p det n , adv . 
+vn np . 
+np vd p pro n . 
+n vd p n , n cnj n . 
+pro vd det n . 
+det n n vd pro n p pro . 
+`` np np cnj pro v vn det n cnj , adv . 
+det adj n p n p np , np vd . 
+np vd adv p det n p det n n . 
+pro n v vn det num num n . 
+det n vd to v p pro n . 
+det n p pro vd pro , vn p det n cnj vd pro adj n . 
+`` * adv pro . . 
+`` det n , pro mod v '' . 
+np vd det n . 
+pro vd pro n cnj vd adv p det det n . 
+num det adj n cnj det num cnj pro v vg pro adv . 
+pro v to v p pro '' . 
+np vd det n n p det n cnj vd adv p det n . 
+det det n mod v . . 
+det n v adv vn adv p det n n . . 
+mod det n v p det n . . 
+pro vd adv p det det n cnj vd wh pro vd -- det vn vg n p det adj n . 
+pro vd p det n p n cnj det n vd p pro n . 
+np vd det n num p np np p det adj cnj pro vd p n np , cnj pro vd cnj np n vd pro p vg det adj n p np np n . 
+np vd num adj n adv , vg pro n p det n to v pro n p det adv adj n . 
+det num n vd cnj pro mod v det adj n v vn , vg p det vn n n . 
+`` adv , np '' . 
+`` adv , np '' . 
+np vd cnj pro cnj n adv p n mod v det n det n cnj det n p det det n . 
+`` adv , np '' . 
+wh v pro to v p wh , n '' . . 
+det n p np np np v det adj cnj det adj cnj det n n p det vg n . 
+* cnj pro vd det n wh det n vd adv p np adj n p det n p n n . 
+np np vd det n p np , n , cnj vd det n cnj np mod v vn cnj pro vd pro vd det adj n mod v adj . 
+`` pro adj cnj det n '' , np np vd , cnj vd , `` np np , pro mod v det p pro : np v det det det adj . 
+`` v adv , np . 
+p pro vd adv adv wh pro v vn adv det vn n p np cnj adv vn p det n to v adj n p pro . 
+wh pro vd np v : `` wh p det n pro vd det n '' . . 
+pro v pro cnj vd p pro v num n cnj pro vd adv . 
+cnj pro vd det n . 
+pro vd vg det mod p n cnj p det n adv . 
+det n n v vn adv p det adj n , pro n adv adv . 
+ex mod v det vn n , cnj adv , adv p pro , v det n vn p det p num num n . 
+det num v vn . 
+det p det n , adv det adj n v det n . 
+num p num n adv p det n p det np , np v v vn p det np np np n . 
+wh v det n p det n , pro vd . 
+vg p det n , pro vd adv p det n , vd adv p det n cnj vd p det n . 
+pro n adv vd p det n p det n , cnj cnj pro vd p det n pro vd pro to v pro adv . 
+vd pro num n to v adj p pro num n n n . 
+det n p adj n cnj det n n n , pro v p det adj n p det adj n . 
+np v p det adj n wh v det n adv p det n det n , cnj np cnj pro n vd adv . 
+pro vd adv adj n p det adj adj n , adv adv p det n . 
+cnj det n p det n v adv vg '' . 
+wh np vd vg pro v adj cnj cnj np cnj np v vn np np . 
+pro vd pro n . 
+det n v det adj . 
+det n vd pro n . 
+det n vd pro n . 
+det n vd . 
+pro vd p det adj n , vg det n p det n . 
+pro adj cnj pro n . 
+det n vd det n . 
+pro v vn , det p pro , p np np . 
+cnj * num det n vd adv , cnj adv , p det adj num n , ex v adv p det num n . 
+uh v cnj p pro n . 
+wh mod pro v . . 
+det n vd p det adj n , cnj pro mod v pro p pro . 
+wh det . . 
+np v adj cnj n , cnj n . 
+wh v det n np v vn to v vn adv . 
+cnj pro vd pro mod v n p n p adj n , adv cnj pro vd adj n p pro n . 
+det n v vn . 
+np vd cnj pro vd pro adj n , cnj pro vd det n n p pro n . 
+adv p pro n , pro vd det n p vg n cnj vd adv p det n . 
+`` det n mod v det n '' , pro vd . 
+ex v det n . 
+pro vd det n -- pro v n n cnj adv pro v vn mod v n -- cnj det n . 
+det n v v vn p det n n cnj pro mod v n p det n wh pro v adv . 
+pro vd adv adv num n , det n p n wh pro mod v n . 
+pro v to v num . 
+np vd vn cnj np v vn . . 
+det n v det adj p det adj adj n . 
+pro v vn pro . 
+n n vd pro cnj vd cnj det n n adj n mod v vn p det n . 
+det adj n p n , np , vd p np n det adv vn , adj n n p n n wh vd det n cnj adj n p n . 
+np mod * v vn pro cnj n v * vn p n . 
+np vd cnj vd , `` pro v adj cnj pro adj n v vn det det n '' . 
+cnj pro v , pro v cnj pro vd pro adv . 
+`` uh v pro adv , np '' , vd np . 
+cnj np np v v vn p det n , pro mod v vn pro cnj n . 
+pro v vn pro mod adv adv v p det det '' . 
+adv , cnj vg det n adv , det n mod v p det adj n . 
+det n vd np n . 
+vg det n mod * v det n p n p det p pro wh v adj '' . 
+v cnj det num v to v . . 
+adj n . 
+np v p adv . 
+pro v det n , cnj pro mod v n cnj det . 
+adv , det n p n wh mod v det adj n v * adj , cnj p det n p det det det num n adj n v v vn p det adj n . 
+`` uh , det v det adj p det n '' . 
+`` num p det adj n pro adv vn . 
+adj n cnj det . 
+np vd . 
+det n vd det adj '' . 
+det np vd n p det n . 
+det n v vn pro pro v vn p det . 
+det n v det . 
+`` adv , pro v '' , det n n . 
+p n , np vd cnj pro mod v pro adj n to v n . 
+adv det num v vn to v np p det adj n . 
+pro vd adv , cnj pro vd det n n n . 
+np vd p pro . 
+n v det n . 
+`` ' det adj n p pro , pro n . 
+`` adv , adv , adv . 
+cnj det adj n p pro n v pro v p pro , vd det n p n , vn p n cnj n , `` n adv v adv '' . 
+wh vd det n to v p np . . 
+pro adj n pro vd . 
+pro mod * v to v det n p det adj n , cnj pro vd det p pro vg n p det n p pro n . 
+det vg n cnj det v det n np np v vn adv v vn . 
+`` pro v pro vd pro n det p det n vg p n '' . . 
+v pro v p det det n wh v adv '' . . 
+`` v adv . 
+`` pro v adv adv . 
+pro vd p det n p np np , pro n n . 
+pro vd pro adj . 
+`` v adv '' . 
+np vd to v . 
+det n mod v det n adv . 
+vn adv p det n . 
+p det adj n det n p pro n vd cnj pro n . 
+`` pro np n '' , np np v vn . 
+det n vd adv . 
+`` wh det '' . . 
+np , p n , vd to v det n adv det n cnj pro vd . 
+pro pro det n adv . 
+pro vd p det n cnj vn det n adv . 
+pro vd adv . 
+np vd p np , vd pro p det n , vg pro adv pro n . 
+det n vn p n . 
+det n v vn n adv . 
+v det p pro '' . 
+-- adj n * det det n pro v to v pro adj n . . 
+`` v cnj pro n . 
+det adj n v adv p pro n . 
+det n p n pro vd vn pro adj to v wh det np vd adv . 
+det adj np vd p np , wh vd pro p det adj adj n p pro n n . 
+vg p det n pro v vn cnj det adj n . 
+pro mod v p det n cnj pro . 
+det n det adj . 
+pro vd wh pro vd p det n . 
+pro v vn to v pro , cnj v det v . 
+pro mod v pro , adv . 
+pro v vn cnj pro v det adj . 
+ex adj n to v cnj v p pro v det . 
+det n wh pro v vn adv p n p det adj n n , pro n v v adj . 
+pro v det adj n p pro . 
+pro vd p det n cnj vd pro n cnj vd vg p pro . 
+det n v adj . 
+vg adv cnj adv . 
+pro vd det n p vg pro n p det n . 
+det n p det num n n vd to v cnj det n mod v vn p n . 
+pro mod * v p pro n cnj v pro v to . 
+cnj pro v vn , pro vd cnj pro n p det n mod v pro to v det n p pro n . 
+pro vd p det n . 
+pro vd adv p det adj n n , adj n n cnj det adj n . 
+pro v det n cnj pro v vn pro n , adv det n . 
+wh v pro vd . . 
+pro v vn p pro n cnj v vn p wh pro v vn adv . . 
+det n , pro vd adv , vg adj cnj pro n v vn , v vn p det det n adv cnj pro adv vd pro n adj * adv p pro adj cnj adv p pro adj n . 
+det adj , adj n v adj , cnj pro vd pro p det n p pro n . 
+`` v adv . 
+np vd pro n adv . 
+pro v v vn cnj p np cnj np vd p det n n pro mod v adj . 
+np vd pro vg cnj vd pro n p n . 
+det adj n n '' . 
+num n p det n p pro v vn p det adj n p det adj n n p n n . 
+det n p n mod v p adv cnj num n v vg det n '' . 
+`` pro n . 
+pro n np vd p det . 
+pro vd adv p det n . 
+pro vd det n n . 
+pro vd det n cnj vd det n p adj n wh det n vd adv p np np . 
+pro mod v adj cnj cnj * to v det vg n . 
+pro v adv cnj pro mod v to v pro n , v n . 
+adj n cnj adj n , n cnj n , det n mod v pro det -- vg cnj pro mod v adv adv p n cnj n . . 
+pro mod * v to v pro n . 
+pro adv adj cnj pro vd det n cnj adj cnj pro n , cnj cnj pro v n p pro . 
+v pro p det adj n , cnj pro mod v pro adv adv '' . 
+vg , det n . 
+pro vd adv p pro v det adj n , det n cnj det n cnj n p pro adj n v vn p n , cnj cnj det n mod v det cnj pro vn . 
+det n v vn pro p p pro n p vg pro . 
+cnj adv ex v det vg n p det n , cnj det adj n p det . 
+ex v det adj n , det adj n p det cnj det adj vg p det n n . 
+pro vd cnj pro mod v p pro n p pro . 
+cnj pro n mod v pro cnj pro vd pro , cnj v cnj pro v pro p pro n . 
+pro v pro adv adv cnj pro v pro '' . 
+`` np np mod v p det '' . 
+`` pro mod v np to v p pro mod . 
+p det p det n v pro v vn det adj n p n p det n p det n . 
+pro v v to v pro p det n . 
+pro n p p det n n n , det adj n p adj n . 
+pro cnj np vd p det n , num p det n . 
+`` n '' . . 
+v adv -- det n . 
+pro vd pro p det n cnj adv p det adj n n num n p det n . 
+pro vd pro p det adj n adv adv , vn pro to v adv . 
+cnj , p det det n , pro v vn p pro . 
+pro vd . 
+pro adv vd det n . 
+adv , vg p p det adj n p det n cnj adj n p n , pro vd n p det n p det adj n pro vd . 
+( det adj n v cnj pro vd det adj n p p n , det adj n p det n wh adj n vd p n cnj vd . 
+det vg , det n p det n n vd adv n p pro . 
+`` pro v vn pro to v adv . 
+`` pro adv cnj adj cnj pro v , np . 
+pro v pro v v pro p det n p n , adv . . 
+`` adv . 
+pro n v vn . . 
+pro vd np v adv . 
+det n vd , vg det n p vg , cnj det n p vg adv . 
+np v p det det adj n , cnj pro mod v . 
+np vd adv . 
+np np n vd np p pro n p n p n . 
+det adj cnj np n v vg adv adv p det n , np v v det n p vg p pro v adj . 
+p det n det n p pro n v vg , np vd cnj pro mod v . 
+det n p pro n v vn , vn n , cnj adv vn p n , cnj pro v adv det n . 
+adv det det adj n p pro adj n v det vg adv p det n n , vg pro adj n adv p det vn p det adj n . 
+pro v det n . 
+pro v * v , vg adv p det n . 
+p n det num vd det n p det adj n . . 
+vg n p det n pro vd adv p det adj n , p vg n . 
+det adj n cnj pro vd adj n vd adj . 
+cnj pro vd adj n n pro vd det n p n . 
+det adj n vd vg adj . 
+np vd adv adv p det n cnj vd pro adv p pro v p n . 
+pro vd det n adv p num : cnj det n cnj det np np n n n . 
+adj n v adj p n , adj p n cnj n . 
+np , det num p det n . 
+`` np p np n . 
+det n . 
+pro vd pro n . 
+pro vd n cnj n cnj vd det n p pro adv . 
+n vd adv . 
+det n v cnj p np , n n p det n . 
+pro vd cnj pro v v det n p pro adv , cnj adv cnj pro vd . 
+np adv mod v vn pro v det n cnj n . 
+v adv '' . 
+det adj . 
+`` uh '' . . 
+pro vd pro p det n , vd adv det n , vd pro . 
+mod pro v det n , cnj n '' . . 
+p det n '' . 
+pro vd adv . 
+ex det n adv wh vbz adv p np n . 
+cnj pro v pro det p pro , n . 
+pro vd adv cnj vd p det adj n p det n . 
+`` wh pro v p det num '' . . 
+pro vd pro adv . 
+pro det n . 
+cnj pro vd pro adv v adj . . 
+ex v det n p det n vg p p det n . 
+`` v v p pro . 
+`` mod pro adv v det n adv p pro cnj adv v pro vd pro p pro '' . . 
+pro vd `` uh '' . 
+`` uh '' . . 
+pro v vn det adj n cnj pro vd . 
+pro v vn adv p pro adj n cnj det n vn p det n . 
+p pro n , ex adv v det n . 
+n p n vd adv det n cnj vd det n cnj det n p n n . 
+pro vd p det n cnj vd adv p det adj n . 
+pro vd det n p n adv p pro n . 
+pro vd cnj pro adj n v adj cnj cnj pro vd det np p adj n n p pro adj n . 
+pro v adj p np . 
+det v v adv p n . . 
+det n mod v vd p pro n p det adj n p det fw . 
+adv to v adv p pro n '' . 
+pro vd p pro n . 
+pro vd adv det adj v p det num n cnj det n p det n p n adv vd adv . 
+np vd p np . 
+det n '' . 
+det n n v adj , cnj adv '' . 
+cnj p np np n , adj n vd det adj . 
+det adj adj n . 
+cnj pro v adv '' . 
+vd p det adj n cnj vd det n p pro . 
+`` pro num n p det adj n . 
+`` adv '' . . 
+det n v p np . 
+`` pro v det n p np , pro v '' . . 
+pro vd pro n adv cnj vd pro p det adj n p n p det vn cnj adj n . 
+pro n v vn cnj n vn n p det adj n . 
+pro v det n . 
+pro vd det adj n to v n , cnj cnj pro vd p det n . 
+np vn cnj vd adj p det adj n , vg cnj pro v det n p det adj n . 
+det n v vn cnj vd det adj adj n cnj pro vn n . 
+det n vd pro v p det n . 
+np vd . 
+pro n v vn cnj det n v vn . 
+`` vbz p pro pro v v vg det n p det '' . 
+det n vd pro . 
+det adj n p pro v vn p det n , adv p det n . 
+np np v adv det . 
+vn p np np , det n vn p n n cnj cnj det n pro vn n cnj vn n , vg adj n p pro n . 
+det num n vd pro n p num n p det n . 
+`` adv vd adv to v wh np np n . 
+adv pro vd adv p det n adv p np np . 
+adv pro vd p det n . 
+v adv adv '' . 
+det n vd det n p adj n cnj det n vd det n , det adj n wh v adv v det adj p n n cnj pro n p det np n n . 
+v det n adv . 
+pro vd p adj n : `` v adv , v pro v pro n . 
+vn p det , cnj p det det adj n p pro n wh vd np cnj np v adj p vg adj n , pro vd det n cnj vn p pro adj n . 
+num det mod v p pro '' . 
+v np v adj cnj adj , n mod v vn pro cnj pro mod v adv vn to v p det det adj n cnj pro vn pro n . 
+adv , pro n cnj n p det n v v adj cnj vg n p det adj n . 
+pro v det pro v to v to v n pro v to v n '' . 
+`` n '' , pro mod v , `` det pro v v vn det n p det adj n , cnj det num n p pro '' . . 
+adv cnj det det . 
+det n n v adj , adv p det n . 
+cnj pro vd adv '' . 
+adv cnj pro v '' . 
+`` adv , adv . 
+`` uh '' . . 
+cnj cnj det adj n adv vd p pro n adv , pro vd det n . 
+det n vd pro v vn pro v det vn n . . 
+det n v n p pro , adv cnj n v pro det n p pro n . 
+pro vd det vg det n p adj n wh vd adv p adj adj n . 
+p pro , p det adj n , adj n vd det n . 
+pro mod v pro n cnj v det n p det n . 
+pro v det adj cnj np n vd p vg pro cnj vg n p pro . 
+`` pro mod v . . 
+pro v det adj , det n , det adj . 
+pro v det adj p np , det adj . 
+adv adv pro adj n mod v p n . 
+cnj wh v vn . . 
+adv , `` v cnj , pro adj n '' . . 
+np v det adj n cnj mod v adv adv , pro vd . 
+det n p det np . 
+ex v det n . 
+`` v pro v . . 
+np mod adv v vn pro n p det adj n . 
+pro v adv vd det n to v det adj n p pro . 
+cnj np v vn p pro cnj np vd p np , mod pro v vn adv p pro . . 
+det adj n to v det adj n . 
+`` pro v to v wh pro v p pro '' . 
+`` v adv , v . 
+`` p det n . 
+pro v v vn p det adj n p n . 
+wh , pro vd , v pro v pro adj n . . 
+`` pro vd adv p det n cnj vd num n '' . 
+wh mod v adv . . 
+wh v adv . . 
+pro vd adv adv p det adj n , cnj pro v vn adv p num n . 
+det adj n vd adv adv p pro p det n n . 
+pro v det adj n p n . . 
+`` det adv '' . 
+`` v pro v adv '' . 
+np v vn to v cnj pro mod v to v det n p np n cnj det '' . 
+det n vd cnj det adj n n v v vn adv . 
+num n v vn p np n cnj det n v vn adj n , adj n . 
+to v det adj n v * det adj n cnj p num n pro vd . 
+pro vd p pro cnj pro vd adv p det np cnj pro v det adj to v p n cnj to v p n det n p n . 
+num adj n vn det n p pro n . 
+pro vd det vn n p n p det n p det n . 
+p det n p pro adj n vd det adj adj n . 
+pro v det n p det n , wh vd pro p det adj n cnj vd pro adv p det n . 
+pro vd p pro n . 
+pro vd p pro adv cnj pro mod v p pro . 
+pro mod v det . 
+np np vd p pro cnj pro n , cnj pro vd num p num num n p det n . 
+p det n p pro v , np vd cnj pro vd n p det n vg . 
+np cnj pro v * vn det det . 
+`` np np '' . . 
+pro v det '' . 
+`` adv , v pro . 
+v pro v p det det n cnj det v vn pro n . . 
+pro vd det n n , det adj n , vn det n , cnj det vn n , cnj ex mod v pro adj p det n p det n . 
+p det n det n v adv adj cnj cnj to v p det n pro vd adv p pro n adj adv . 
+adv det n vd . 
+adv pro vd det n cnj n adv p pro n p det n p det n p det n . 
+cnj p det det n , det n vbz n . . 
+p det n pro v vn p n p det n , cnj p det n cnj pro v vn to v cnj det n p pro v adj p pro p det n . 
+pro vd . 
+pro mod v p pro n cnj pro adv det n p np mod v pro det n . 
+pro mod v to v pro p np np . 
+`` v adv , pro v adv '' . 
+p det n det n v vn p det n p det n . 
+pro v vn cnj pro v v det n . 
+`` v adv p pro n '' . . 
+det n adv p det n , p det n , cnj det adj n p det n adv vg to v adv . 
+np vd adv . 
+pro mod v adv '' . 
+pro mod v det n vg p det n . 
+p det n vn -- adj to v det det n p det n cnj det . . 
+v v det adj '' . 
+pro mod v adv p det n . 
+np v det n cnj np vd pro . 
+pro vd cnj np v v vg p np p n cnj pro v adv v . 
+det adj n , vd adj n p n p n . 
+pro vd p pro , vg det n cnj det n . 
+pro vd , p det vn n p n . 
+n . 
+pro vbz pro v adv cnj pro v to '' . 
+pro mod v adv . 
+`` pro mod v det n p np , adj n '' . 
+pro vd det adj cnj pro v vn to v adv pro adj n cnj pro mod v pro n . 
+`` det p det adj . 
+pro v adv p det n '' . 
+pro vd pro n . 
+( `` wh v num n v p det det n . . 
+cnj pro v det det adj n cnj pro vd pro n . 
+pro vd cnj np np v vn np p det n . 
+np vd adv to v det adj n cnj det adj n . 
+p det n adv p det n n p det n n . 
+pro v det adj wh np vd n p det n cnj adj np v vn det n . 
+pro vd p det n , adv vd det n p det n vg pro wh v vn . 
+`` v det . . 
+pro det adj . 
+`` p n pro v adv p n '' , pro v , vg to v vg . 
+pro v det n cnj adj np np , det det adj n p n , v pro to v p pro , adv . 
+`` v pro vn p det n p pro '' . . 
+`` pro adv mod v p det n p det n '' , pro vd . 
+`` adv '' . 
+`` adv '' . 
+`` adv cnj adv . 
+adv cnj pro v v p np , adj cnj pro vd np . 
+pro adv vd adv . 
+cnj pro vd det n . 
+det adj n v det n p adj n . 
+ex v det n p det adj n , cnj pro mod v pro adv . 
+* adj vg , cnj adj cnj adj cnj cnj pro vd pro adj . 
+pro vd p det np p det det n , adv p np p det n p np . 
+pro v vn p pro det n cnj p pro n . 
+det det n , det n n . 
+`` v det adj n p pro adv '' . 
+p det , n . 
+pro vd det n adv , num p n p det det . 
+`` uh v pro adv '' . . 
+pro adv vd pro n v p pro , adv . 
+cnj cnj pro v adv vn det num n pro vd cnj pro n n np v vg np np . 
+det det adj n p det n n v cnj pro vd vn p pro , adv . 
+adj n , adj n . 
+cnj pro v det n p det adj det n v . 
+`` v pro '' . . 
+v pro '' . 
+cnj pro vd p np . 
+`` v det n to v p det n '' . . 
+v adv p pro '' . 
+`` uh , v adv '' . 
+det n mod v pro pro p n p n . . 
+np vd to v cnj det adj v det adj , np v det cnj adj . 
+det n , pro vd det n p det n . 
+vd det n . 
+adv v p det n . 
+p det det n , pro v vn det n adv . 
+pro v v wh v det adj p det n , vg p np p n . 
+np np vd adv p n p adj n to v det n . 
+np vd p det n . 
+p det det p det num n np np vd adv to v cnj vd det adj n p det adj n n . 
+`` pro vg to v pro vd det n '' . . 
+`` v det adv p wh vd adv adv '' . . 
+np vd to v pro cnj np vd pro adj . 
+cnj pro vg n . 
+pro vd to v to v adv p pro n p det det n pro vd p n , vg p pro p det p det det adj n p pro n cnj adv vg to v p pro p det n p wh pro adv v vn . 
+`` pro vd p pro '' , np np vd . 
+pro v det n . 
+pro vd det n adv , * vg adv adv . . 
+np vd pro v vn pro n num n adv . 
+vn adv p n . 
+pro v v to v vn pro n vd cnj pro . 
+n , n . 
+wh v pro v det n cnj np cnj pro n v det adj n , cnj pro mod v pro . . 
+pro vd p det n p adj n p np n cnj vd det n . 
+wh pro vd p n pro vd pro to v . 
+pro np vd p num n cnj pro vd adv '' . 
+`` adv . 
+np , adv p n , cnj vd cnj vd . 
+np vd p pro n n cnj vd adv det n n . 
+adv , np , pro vd num n . 
+pro vbz det n vg . 
+v wh pro vd to v p det n . . 
+p det n det n v wh pro v vn pro . 
+pro v adv det adj . 
+det n p n vd p pro n . 
+pro vd det adj n . 
+ex v pro p adj adj n wh adv vd pro v vn cnj adj . 
+pro v p n vd adv cnj pro vd det n v vn , wh v det adj cnj pro mod v pro . 
+p n , det n p n vd det adj n . 
+cnj * det adv . 
+wh v pro v p det det n p adj n . . 
+adj n , n p adj n n , vd pro . 
+pro v np np v adj p v det adj cnj adv vn p n n cnj p det adj n . 
+pro vd pro n adv , cnj pro vg to v pro . 
+vn p pro v np , vg det n p vg pro n , cnj np vd det n p det n cnj np v adj to v adv . 
+adv , np vd adj p det adj n vg det adj num . 
+np np vd pro adj cnj pro v vn pro adj . 
+`` pro v wh pro vg adv p det n '' . 
+pro vd p det n cnj , p np np np np vd p np vg p det adj adj adj n n , vg det adj n . 
+cnj pro vd det n p np p pro n cnj vd pro n p vg adv . 
+pro n v v vn . 
+pro vd det n p n p det n n p np np . 
+p n cnj n , det n adv vd vg . 
+vd det n . 
+pro vd cnj det det n v vg p n p det adj n wh np v vn p det n . 
+adv . 
+wh pro vd to v v cnj pro vd to v adv p det n p vg pro det adv p det n n . 
+adv , * np . 
+adj n cnj n cnj adj n . 
+pro v adv v det n wh np v vd cnj vd p det adj n , `` uh , pro mod v vn '' . 
+p n p n . 
+p pro n , pro v n wh vd p np np , cnj vd np . . 
+pro v vn det n . 
+adj to v , pro n vd adv p det adj n . 
+pro vd pro adj , p det n , mod pro v , p pro n cnj vg n , cnj adv det adj n v det adj . 
+det v cnj det n p det n pro vd . 
+pro vd det n , adj cnj det n , * adv p pro p det n n , cnj p n p adj . 
+cnj pro v adj n . 
+pro vd p det adj n p pro n n . 
+pro det vd det adj . 
+pro v pro v p det . 
+adv mod pro v to v pro v cnj pro v vn p n p pro '' . . 
+det n p n . 
+ex v det adj p det p vg n cnj n wh v num adj n . 
+pro vd p det n , `` pro v det n to v adv p det n '' . 
+det det adj v det n p det adj n n . 
+n v det n cnj pro vbz n cnj adv cnj n . 
+`` pro v vn cnj p np pro v vn p n , vd adv p n p n . 
+`` cnj pro mod v vn pro vd cnj det n vd adv p det adj n p np cnj det adj n p n . 
+`` uh , pro vd to v cnj cnj pro v vn p det adj n p det adj n , pro v vn p det adj n p det n . 
+cnj pro v vn pro n p det n . 
+cnj cnj pro v adv adj p pro n . 
+vn num p det n . 
+pro v det adj n . 
+det n v det adj n n . 
+cnj det n adv vd pro to v pro n p det n p det n . 
+adv adv , det n vd pro adv p n . 
+pro vd . 
+adv , det adj n v vn adv adj n p n . 
+cnj det det vd adv p n p det n . 
+det np adj n n p det adj np np np np , p n p det n . 
+det n pro vd pro , det det adj n vd wh det n vd to v det n , vg -- p n -- cnj `` pro vd '' . 
+pro v adv vn p n n cnj n , det n , cnj pro mod v det adj p pro * to v pro p pro . 
+det n . 
+adv det , det v det n p n , vn p det n cnj pro p det adj n p num . 
+np np . 
